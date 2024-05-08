@@ -8,8 +8,8 @@ meta_title: Jekyll Advance - Premium Jekyll Theme
 
 hero:
   enabled: true
-  heading: "Jekyll Advance"
-  sub_heading: "Built using highly configurable sections, Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  heading: "Company name"
+  sub_heading: "Consulting in information technologies area. Best industrial experience and state-of-the-art solutions at your disposal."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
