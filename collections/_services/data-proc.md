@@ -1,6 +1,6 @@
 ---
 title: "Data processing"
-description: "The expression of a brand including its name, trademark, and visual appearance."
+description: "Data is the cornerstone of business success, enabling informed decisions, innovation, and adaptability."
 date: 2019-10-03
 weight: 3
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-3.webp"
 
 hero:
   enabled: true
-  heading: "Branding"
-  sub_heading: "The expression of a brand including its name, trademark, and visual appearance."
+  heading: "Data processing"
+  sub_heading: "Data is the cornerstone of business success, enabling informed decisions, innovation, and adaptability."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
