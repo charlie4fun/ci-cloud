@@ -1,5 +1,5 @@
 ---
-title: "Branding"
+title: "Data processing"
 description: "The expression of a brand including its name, trademark, and visual appearance."
 date: 2019-10-03
 weight: 3
@@ -33,15 +33,17 @@ hero:
         style: "primary"
 ---
 
-# Creating Modern Websites
+# Data Processing
+In today's digital age, data fuels business success by providing actionable insights, guiding strategic decisions, and driving innovation. From understanding customer needs to optimizing operational efficiency, data empowers businesses to stay ahead of the curve and adapt to ever-changing market dynamics. Unlock the full potential of your business by harnessing the power of data to fuel growth, drive profitability, and achieve lasting success.
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+## The six stages of data processing
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
-
-## What is Web Design?
-
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+1. Data Collection: Gathering raw data from various sources such as sensors, databases, or manual inputs.
+2. Data Preparation: Cleaning, sorting, and organizing the collected data to make it suitable for analysis.
+3. Data Input: Entering the prepared data into the system for processing.
+4. Data Processing: Analyzing, transforming, and deriving insights from the input data.
+5. Data Output: Presenting the processed data in a meaningful format such as reports, visualizations, or dashboards.
+6. Data Storage: Archiving the processed data for future reference or analysis.
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
 
