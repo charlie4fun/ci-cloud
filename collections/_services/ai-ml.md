@@ -1,5 +1,5 @@
 ---
-title: "SEO"
+title: "Custom AI/ML Solutions"
 description: "Improving search engine rankings through techincal on page SEO and content creation."
 date: 2021-07-23
 weight: 5
@@ -11,7 +11,7 @@ image: "/assets/images/gen/services/service-5.webp"
 
 hero:
   enabled: true
-  heading: "SEO"
+  heading: "Custom AI/ML Solutions"
   sub_heading: "Improving search engine rankings through techincal on page SEO and content creation."
   text_color: "#ffffff"
   background_color: ""

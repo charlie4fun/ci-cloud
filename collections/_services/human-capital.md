@@ -34,7 +34,7 @@ hero:
 ---
 
 ## What HR solutions are we offering?
-Discover top talent effortlessly through our simplified hiring process. Plan your team's growth and retention strategically for long-term success. Empower your employees with personalized learning experiences designed to achieve their goals. Boost efficiency and empower your team with self-service HR solutions and AI-support.
+Discover top talent effortlessly with our support through out the whole hiring process. Plan your team's growth and retention strategically for long-term success. Empower your employees with personalized learning experiences designed to achieve their goals. Boost efficiency and empower your team with self-service HR solutions and AI-support.
 
 > It's not just about hiring
 

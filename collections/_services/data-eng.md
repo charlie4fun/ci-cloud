@@ -1,22 +1,23 @@
 ---
-title: "User Experience"
-description: "Understanding the needs of the user and creating product solutions."
-date: 2018-11-28T15:15:34+10:00
-weight: 2
+title: "Data Engineering"
+description: "Data is the cornerstone of business success, enabling informed decisions, innovation, and adaptability."
+date: 2019-10-03
+weight: 3
 header_transparent: true
-icon: "assets/images/icons/icons8-user-engagement-male-100.png"
-thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
-image: "/assets/images/gen/services/service-2.webp"
+fa_icon: false
+icon: "assets/images/icons/icons8-color-palette-100.png"
+thumbnail: "/assets/images/gen/services/service-3-thumbnail.webp"
+image: "/assets/images/gen/services/service-3.webp"
 
 hero:
   enabled: true
-  heading: "User Experience"
-  sub_heading: "Understanding the needs of the user and creating product solutions."
+  heading: "Data Engineering"
+  sub_heading: "Data is the cornerstone of business success, enabling informed decisions, innovation, and adaptability."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
-  background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-2.webp"
+  background_image_blend_mode: false" # "overlay", "multiply", "screen"
+  background_image: "/assets/images/gen/services/service-3.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
@@ -32,15 +33,17 @@ hero:
         style: "primary"
 ---
 
-# Creating Modern Websites
+# Data Processing
+In today's digital age, data fuels business success by providing actionable insights, guiding strategic decisions, and driving innovation. From understanding customer needs to optimizing operational efficiency, data empowers businesses to stay ahead of the curve and adapt to ever-changing market dynamics. Unlock the full potential of your business by harnessing the power of data to fuel growth, drive profitability, and achieve lasting success.
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+## The six stages of data processing
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
-
-## What is Web Design?
-
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+1. Data Collection: Gathering raw data from various sources such as sensors, databases, or manual inputs.
+2. Data Preparation: Cleaning, sorting, and organizing the collected data to make it suitable for analysis.
+3. Data Input: Entering the prepared data into the system for processing.
+4. Data Processing: Analyzing, transforming, and deriving insights from the input data.
+5. Data Output: Presenting the processed data in a meaningful format such as reports, visualizations, or dashboards.
+6. Data Storage: Archiving the processed data for future reference or analysis.
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
 
