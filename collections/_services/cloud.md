@@ -44,7 +44,7 @@ Moreover, cloud services often come with built-in <b>redundancy and high availab
 # What Do We Do?
 Navigating the complexities of cloud technology can be challenging. We take the time to understand your unique business goals, challenges, and requirements. With a team of certified experts we deliver comprehensive and reliable cloud solutions.
 
-Partner with us and transform your cloud experience today. We offer robust support and innovative solutions in every aspect of your interaction with Clouds:
+Partner with us and transform your cloud experience today. We offer robust support and innovative solutions in every aspect of your interaction with clouds:
    1. Cloud Native Application Development
    2. Cloud Strategy Development
    3. Cloud Migration
@@ -60,11 +60,11 @@ Partner with us and transform your cloud experience today. We offer robust suppo
 
 # Are There any disadvantages?
 Like many good things, cloud services have their drawbacks and trade-offs:
-    1. Potential for vendor lock-in
-    2. Limited control over underlying infrastructure
-    3. Security concerns, including data privacy and online threats
-    4. Complexity of integrating with existing systems
-    5. Risk of unforeseen costs and unexpected expenses
-    6. Dependence on a stable internet connection
+   1. Potential for vendor lock-in
+   2. Limited control over underlying infrastructure
+   3. Security concerns, including data privacy and online threats
+   4. Complexity of integrating with existing systems
+   5. Risk of unforeseen costs and unexpected expenses
+   6. Dependence on a stable internet connection
 
 Nevertheless, they represent the future of business operations and can provide a competitive advantage. With the support of experienced specialists, you can minimize the negative effects and maximize the benefits of using cloud.

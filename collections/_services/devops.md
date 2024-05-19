@@ -4,8 +4,8 @@ description: "Understanding the needs of the user and creating product solutions
 date: 2018-11-28T15:15:34+10:00
 weight: 2
 header_transparent: true
-icon: "assets/images/icons/icons8-user-engagement-male-100.png"
-thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
+icon: "assets/images/icons/icons8-source-code-100.png"
+thumbnail: "/assets/images/gen/services/service-1-thumbnail.webp"
 image: "/assets/images/gen/services/service-2.webp"
 
 hero:
