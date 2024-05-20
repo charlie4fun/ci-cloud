@@ -47,28 +47,7 @@ In today's digital age, data fuels business success by providing actionable insi
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
 
-## Front-end Development
+## Data Platforms
+When your business experiences rapid growth, your data volumes increase significantly, and addressing customer requests becomes more challenging. Hiring new specialists is only part of the solution to managing these growth challenges. The other essential part is implementing tools that enable new employees to be productive. This is where a data platform comes into play.
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
-
-> As a UX designer, you should consider the Why, What and How of product use.
-
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
-
-## Design Systems
-
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma](/assets/images/gen/content/content-2.webp)
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+A data platform provides a centralized system for managing and analyzing large volumes of data, ensuring that information is easily accessible and actionable. It enhances efficiency by automating data processes and integrating various data sources, allowing your team to focus on strategic tasks rather than manual data management. Additionally, a robust data platform improves decision-making by providing real-time insights and analytics, helping your business stay agile and responsive to customer needs. By leveraging a data platform, you can effectively support your growing team and maintain high productivity levels, ultimately driving sustained business success.
