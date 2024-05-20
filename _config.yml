@@ -18,8 +18,8 @@ plugins:
   - jekyll-environment-variables
   - jekyll-paginate
 
-#paginate: 6
-#paginate_path: "/blog/page/:num"
+paginate: 6
+paginate_path: "/blog/page/:num"
 
 # Collections
 collections_dir: collections
@@ -27,15 +27,15 @@ collections:
   services:
     output: true
     permalink: /:collection/:path/
-#  projects:
-#    output: false
-#    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
   team:
     output: true
     permalink: /:collection/:path/
-#  posts:
-#    output: true
-#    permalink: /blog/:path/
+  posts:
+    output: true
+    permalink: /blog/:path/
 
 # Pages
 defaults:
@@ -54,12 +54,12 @@ defaults:
       type: team
     values:
       layout: team
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      layout: post
-#      weight: 999
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      weight: 999
   - scope:
       path: "images"
     values:
@@ -141,7 +141,7 @@ logo:
   show_logo_image_on_mobile: true
   show_logo_image_on_desktop: true
   show_logo_text_on_mobile: false
-  show_logo_text_on_desktop: true
+  show_logo_text_on_desktop: false
 
 header: 
   fixed: false
