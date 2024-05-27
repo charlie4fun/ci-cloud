@@ -46,22 +46,28 @@ footer_primary:
   - name: Services
     url: /services/
     weight: 2
-  - name: Projects
-    url: /projects/
-    weight: 3
-  - name: Team
-    url: /team/
-    weight: 4
-footer_secondary:
-  - name: Blog
-    url: /blog/
-    weight: 1
   - name: About
     url: /about/
-    weight: 2
+    weight: 3
   - name: Contact
     url: /contact/
-    weight: 3
+    weight: 4
+#  - name: Projects
+#    url: /projects/
+#    weight: 3
+#  - name: Team
+#    url: /team/
+#    weight: 4
+#footer_secondary:
+#  - name: Blog
+#    url: /blog/
+#    weight: 1
+#  - name: About
+#    url: /about/
+#    weight: 2
+#  - name: Contact
+#    url: /contact/
+#    weight: 3
 footer_tertiary:
   - name: Privacy Policy
     url: /privacy-policy/
