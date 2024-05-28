@@ -50,10 +50,10 @@ intro:
   enabled: true
   align: left
   image: "/assets/images/gen/content/content-5-thumbnail.webp"
-  heading: "We've helped hundreds of people grow their business online."
-  sub_heading: "Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home."
+  heading: "We've helped biggest players to improve their business."
+  sub_heading: "Our solutions empower companies all over the world to face the challenges of tomorrow."
   features:
-    enabled: false
+    enabled: true
     list:
       - text: "Configure the homepage sections in front-matter."
         fa_icon: "fas fa-check"
