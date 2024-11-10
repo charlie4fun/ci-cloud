@@ -48,5 +48,3 @@ Unlock the benefits of nearshore hiring and elevate your team's capabilities. Wi
 
 # Employee Experience Innovators
 Crafting exceptional employee experiences is more than just a process, it's an art that begins from the moment a candidate applies and extends throughout their entire journey within the company. From designing engaging onboarding processes to fostering a supportive work environment and providing ongoing training opportunities, we ensure every aspect of the employee experience is meticulously curated for success and satisfaction. Let us help you create an environment where your employees thrive, driving both individual growth and organizational excellence.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}

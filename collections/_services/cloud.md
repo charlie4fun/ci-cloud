@@ -1,6 +1,6 @@
 ---
 title: "Cloud Consulting"
-description: "Design beautiful modern websites using the Jamstack."
+description: "Improve productivity by utilising  on-demand services."
 date: 2018-11-28T15:15:34+10:00
 weight: 4
 header_transparent: true
@@ -12,7 +12,7 @@ image: "/assets/images/gen/services/service-4.webp"
 hero:
   enabled: true
   heading: "Cloud Consulting"
-  sub_heading: "Design beautiful modern websites using the Jamstack."
+  sub_heading: "Improve productivity by utilising  on-demand services."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

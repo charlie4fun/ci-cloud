@@ -22,7 +22,7 @@ hero:
   fullscreen_desktop: false
   height: 660px
   buttons:
-    enabled: false
+    enabled: true
     list:
       - text: "Buy Now"
         url: "https://www.zerostatic.io/theme/jekyll-advance/"
