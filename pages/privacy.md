@@ -27,16 +27,13 @@ Our privacy policy should be simple and easy to understand for everyone. In this
 ### Hosting
 Our website is hosted by an external service provider, GitHub Pages, a service provided by GitHub, Inc. (GitHub B.V. Prins Bernhardplein 200, Amsterdam 1097JB The Netherlands and GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 United States), located in the United States. Hosting on GitHub Pages allows us to maintain a stable, secure, and optimized website for our users. While we manage the content displayed on our site, certain data collected through the website (such as IP addresses and browsing behavior) may be processed by GitHub as part of its hosting services.
 
-**Data Processing by GitHub**
-
+#### Data Processing by GitHub
 GitHub may collect and process certain technical data (e.g., IP addresses, log files) as part of their infrastructure services. This data may be automatically logged by GitHub to maintain and secure their network, optimize the hosting service, and fulfill legal obligations.
 
-**Data Transfer to Third Countries**
-
+#### Data Transfer to Third Countries
 As GitHub is based in the United States, personal data may be transferred to and processed in the United States. GitHub complies with GDPR through the implementation of adequate safeguards, including standard contractual clauses where applicable. For more information on GitHub’s data processing practices, please review GitHub’s [Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
-**Security Measures**
-
+#### Security Measures
 GitHub implements various technical and organizational measures to ensure the security of data on their servers. However, Cirro Cloud GmbH remains responsible for the management of website content and the protection of data shared through our site.
 
 By using our website, you acknowledge that GitHub Pages processes data as part of their hosting services. For additional details about how GitHub Pages processes personal data, please refer directly to their [Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
