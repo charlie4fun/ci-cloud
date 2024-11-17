@@ -10,12 +10,12 @@ main:
         url: /services/human-capital/
       - name: "DevOps Platforms"
         url: /services/devops/
-      - name: "Branding"
-        url: /services/branding/
-      - name: "Web Design"
+      - name: "Cloud Consulting"
+        url: /services/cloud/
+      - name: "Custom AI/ML solutions"
         url: /services/web-design/
-      - name: "SEO"
-        url: /services/seo/
+      - name: "Data Engineering"
+        url: /services/data-eng/
       - name: "Software Engineering"
         url: /services/software-engineering/
 #  - name: Projects
@@ -82,6 +82,6 @@ bottom:
   - name: Privacy Policy
     url: /privacy-policy/
     weight: 3
-  - name: Terms and Conditions
+  - name: Impressum
     url: /terms-and-conditions/
     weight: 4

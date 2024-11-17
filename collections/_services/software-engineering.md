@@ -25,8 +25,8 @@ hero:
     enabled: false
     list:
       - text: "Buy Now"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
-        external: true
+        url: "/contact"
+        external: false
         fa_icon: false
         size: large
         outline: false

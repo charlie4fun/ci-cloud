@@ -4,22 +4,22 @@ title: "About Us"
 date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
+description: "We are a team of professionals, ready to solve your most complex IT problems."
 image: "/assets/images/gen/content/content-5.webp"
 
 hero:
   enabled: false
   heading: "About Us"
-  sub_heading: "Business plan hackathon handshake responsive web design."
+  sub_heading: "We are a team of professionals, ready to solve your most complex IT problems."
   background_image: false
   background_image_blend_mode: false
   full_height_mobile: false
   buttons:
-    enabled: false
+    enabled: true
     list:
-      - text: "Buy Now"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
-        external: true
+      - text: "Contact Us"
+        url: "/contact"
+        external: false
         fa_icon: false
         size: large
 ---
@@ -30,7 +30,9 @@ Web design encompasses many different skills and disciplines in the production a
 
 Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
 
-## What is Web Design?
+## What is Consulting?
+
+We are aimed on finding a solution to any problem, with which you may approach us.
 
 User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
 

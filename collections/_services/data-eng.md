@@ -5,7 +5,7 @@ date: 2019-10-03
 weight: 3
 header_transparent: true
 fa_icon: false
-icon: "assets/images/icons/icons8-color-palette-100.png"
+icon: "assets/images/icons/icons8-data-100.png"
 thumbnail: "/assets/images/gen/services/service-3-thumbnail.webp"
 image: "/assets/images/gen/services/service-3.webp"
 
@@ -24,9 +24,9 @@ hero:
   buttons:
     enabled: true
     list:
-      - text: "Buy Now"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
-        external: true
+      - text: "Get a Quote"
+        url: "/contact"
+        external: false
         fa_icon: false
         size: large
         outline: false
