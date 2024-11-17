@@ -89,7 +89,7 @@ exclude:
 # -------------------
 # Theme Config
 # --------------------
-title: "Jekyll Advance"
+title: "Cirro Cloud"
 category_dir: category
 
 colors:
@@ -192,10 +192,10 @@ menu:
 
 footer:
   enable_footer: true # show/hide the entire footer
-  footer_title: "Jekyll Advance"
-  footer_description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
-  enable_social_media_icons: true
-  enable_contact_details: true
+  footer_title: "Cirro Cloud GmbH"
+  footer_description: "Consulting in information technologies area. Best industrial experience and state-of-the-art solutions at your disposal."
+  enable_social_media_icons: false
+  enable_contact_details: false
   enable_menu_footer_primary: false
   enable_menu_footer_secondary: true
   enable_menu_footer_tertiary: true
@@ -206,8 +206,8 @@ footer:
 bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)
   enable_bottom_menu: true # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2023 Zerostatic Themes"
-  show_rss_icon: true
+  copyright_text: "© 2023 Cirro Cloud GmbH"
+  show_rss_icon: false
 
 sidebar:
   enable_sidebar_services: true

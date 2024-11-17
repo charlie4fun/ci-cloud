@@ -1,14 +1,14 @@
 ---
 layout: home
 permalink: "/"
-title: "Jekyll Advance"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+title: "Cirro Cloud GmbH"
+description: "Consulting in information technologies area. Best industrial experience and state-of-the-art solutions at your disposal."
 header_transparent: true
-meta_title: Jekyll Advance - Premium Jekyll Theme
+meta_title: Cirro Cloud - IT Consulting
 
 hero:
   enabled: true
-  heading: "Company name"
+  heading: "Cirro Cloud"
   sub_heading: "Consulting in information technologies area. Best industrial experience and state-of-the-art solutions at your disposal."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
@@ -55,13 +55,13 @@ intro:
   features:
     enabled: true
     list:
-      - text: "Configure the homepage sections in front-matter."
+      - text: "Most flexible solutions for clients of any size."
         fa_icon: "fas fa-check"
-      - text: "An advanced hero image section with dozens of design options."
+      - text: "Cutting edge technologies in their most practical incarnation."
         fa_icon: "fas fa-check"
-      - text: "Fully responsive and SEO optimised."
+      - text: "From idea to the final product, we support you on any stage."
         fa_icon: "fas fa-check"
-      - text: "Multiple content types including services, projects, blog and more."
+      - text: "Professional services in the most convenient wrapper."
         fa_icon: "fas fa-check"
   buttons:
     enabled: true
@@ -95,7 +95,7 @@ outro:
   align: center
   image: false
   heading: Get Started Today
-  sub_heading: "Save time and money using this premium Jekyll theme."
+  sub_heading: "Let us find a solution for your most complicated request."
   features:
     enabled: false
     list:
