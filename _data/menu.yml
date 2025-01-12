@@ -33,9 +33,9 @@ main:
 #  - name: Blog
 #    url: /blog/
 #    weight: 4
-  - name: About
-    url: /about/
-    weight: 5
+#  - name: About
+#    url: /about/
+#    weight: 5
   - name: Contact Us
     url: /contact/
     weight: 6
@@ -62,9 +62,9 @@ footer_secondary:
   - name: Services
     url: /services/
     weight: 2
-  - name: About
-    url: /about/
-    weight: 3
+#  - name: About
+#    url: /about/
+#    weight: 3
   - name: Contact
     url: /contact/
     weight: 4
@@ -73,7 +73,7 @@ footer_tertiary:
     url: /privacy-policy/
     weight: 1
   - name: Impressum
-    url: /terms-and-conditions/
+    url: /impressum/
     weight: 2
   - name: Get a Quote
     url: /contact/
@@ -83,5 +83,5 @@ bottom:
     url: /privacy-policy/
     weight: 3
   - name: Impressum
-    url: /terms-and-conditions/
+    url: /impressum/
     weight: 4
