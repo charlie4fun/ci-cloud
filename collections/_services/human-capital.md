@@ -44,7 +44,5 @@ AI, once a sci-fi dream, now revolutionizes HR. It's not just about hiring, it's
 # Workforce Solutions
 Unlock the benefits of nearshore hiring and elevate your team's capabilities. With a focus on cost-efficiency and accessing diverse talent pools, our nearshore solutions offer unparalleled expertise tailored to your business needs. Experience seamless collaboration and enhanced productivity nearshore partnerships.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
-
 # Employee Experience Innovators
 Crafting exceptional employee experiences is more than just a process, it's an art that begins from the moment a candidate applies and extends throughout their entire journey within the company. From designing engaging onboarding processes to fostering a supportive work environment and providing ongoing training opportunities, we ensure every aspect of the employee experience is meticulously curated for success and satisfaction. Let us help you create an environment where your employees thrive, driving both individual growth and organizational excellence.

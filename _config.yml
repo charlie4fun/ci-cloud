@@ -129,7 +129,7 @@ fonts:
   logo: "Lato"
 
 logo:
-  logo_text: "Cloudy Lake"
+  logo_text: "Cirro Cloud"
   logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
@@ -206,7 +206,7 @@ footer:
 bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)
   enable_bottom_menu: true # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2023 Cirro Cloud GmbH"
+  copyright_text: "© 2025 Cirro Cloud GmbH"
   show_rss_icon: false
 
 sidebar:

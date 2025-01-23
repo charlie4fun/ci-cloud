@@ -45,8 +45,6 @@ In today's digital age, data fuels business success by providing actionable insi
 5. Data Output: Presenting the processed data in a meaningful format such as reports, visualizations, or dashboards.
 6. Data Storage: Archiving the processed data for future reference or analysis.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
-
 ## Data Platforms
 When your business experiences rapid growth, your data volumes increase significantly, and addressing customer requests becomes more challenging. Hiring new specialists is only part of the solution to managing these growth challenges. The other essential part is implementing tools that enable new employees to be productive. This is where a data platform comes into play.
 
