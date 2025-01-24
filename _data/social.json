@@ -1,18 +1,18 @@
 [
   {
-    "title": "Twitter",
-    "fa_icon": "fa-solid fa-face-smile",
-    "url": "https://www.zerostatic.io"
-  },
-  {
-    "title": "Github",
+    "title": "cloud",
     "fa_icon": "fa-solid fa-cloud",
-    "url": "https://www.zerostatic.io"
+    "url": "https://www.ci-cloud.de"
   },
   {
-    "title": "Discord",
+    "title": "heart",
     "fa_icon": "fa-solid fa-heart",
-    "url": "https://www.zerostatic.io"
+    "url": "https://www.ci-cloud.de"
+  },
+  {
+    "title": "smile",
+    "fa_icon": "fa-solid fa-face-smile",
+    "url": "https://www.ci-cloud.de"
   },
   {
     "title": "Tiktok",
