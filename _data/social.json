@@ -1,17 +1,17 @@
 [
   {
     "title": "Twitter",
-    "fa_icon": "fab fa-twitter",
+    "fa_icon": "fab fa-earth-europe",
     "url": "https://www.zerostatic.io"
   },
   {
     "title": "Github",
-    "fa_icon": "fab fa-github",
+    "fa_icon": "fab fa-dumbell",
     "url": "https://www.zerostatic.io"
   },
   {
     "title": "Discord",
-    "fa_icon": "fab fa-discord",
+    "fa_icon": "fab fa-heart",
     "url": "https://www.zerostatic.io"
   },
   {
