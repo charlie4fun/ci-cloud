@@ -1,5 +1,5 @@
 ---
-title: "IT-recruitment"
+title: "IT recruitment"
 description: "We offer turnkey solutions for IT recruitment"
 date: 2025-04-14T09:15:00+02:00
 weight: 1
@@ -33,14 +33,14 @@ hero:
         style: "primary"
 ---
 
-Looking for top IT talent? We specialize in recruiting highly skilled professionals across a wide range of roles, including:
+# Looking for top IT talent?
+We specialize in recruiting highly skilled professionals across a wide range of roles, including:
 
 Software Developers, Data Engineers & Analysts, Data Scientists, DevOps Engineers, Project Managers, and more.
 
 Whether you need full-time hires, contractors, or an entire project-based team—we’ve got you covered.
 
 # Why Choose Us?
-
 ### Speed & Efficiency
 We have a robust network of pre-vetted specialists, including passive candidates who aren't actively job-hunting but are open to the right opportunity. This allows us to present the first candidates within just 1–2 days.
 
@@ -58,3 +58,6 @@ Enjoy personalized support from a single point of contact who fully understands 
 
 ### Competitive Pricing
 Our pricing is among the most competitive in the market, delivering top-quality service without the high agency fees.
+
+Let us help you build the team that drives your business forward.
+# Contact us today to get started!
