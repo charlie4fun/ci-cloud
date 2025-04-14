@@ -6,7 +6,7 @@ permalink: "/privacy-policy/"
 ---
 
 ## General
-We have done our best to create a simple, transparent privacy policy. **Our aim is to collect and store no data, or as little as possible.** We only use cookies that are essential to run this website.
+We have done our best to create a simple, transparent privacy policy. **Our aim is to collect and store as little data as possible.**
 
 This Privacy Policy outlines how we collect, process, store, and protect any personal information you share with us while using our website (ci-cloud.de, hereinafter referred to as "website"), in full compliance with the General Data Protection Regulation (GDPR), the German Federal Data Protection Act (BDSG), the Telecommunication Digital Services Data Protection Act (TDDDG) and other applicable German data protection laws.
 
@@ -38,12 +38,6 @@ GitHub implements various technical and organizational measures to ensure the se
 
 By using our website, you acknowledge that GitHub Pages processes data as part of their hosting services. For additional details about how GitHub Pages processes personal data, please refer directly to their [Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
-### Analytics
-This site uses no analytics, which guarantees highest privacy while using our web-page.
-
-### Advertising & Marketing
-This site does not include any 3rd party advertising or marketing tracking code.
-
 ### Fonts
 This website does not use Google fonts from the Google CDN. It uses a self-hosted version of fonts which are free of tracking.
 
@@ -60,6 +54,43 @@ Any data you submit in this form may be shared with 3rd party service providers.
 - [Formspree](https://formspree.io/legal/privacy-policy/)
 
 If you send us inquiries via the contact form or email, your details from the inquiry form or your email, including the first and last name you gave there, postal address, will be stored by us for the purpose of processing the inquiry and in the event of follow-up questions. Providing an email address is required for contact information, providing your name and telephone number is voluntary. We will never pass on this data without your consent. The legal basis for processing the data is our legitimate interest in answering your request in accordance with Article 6 Paragraph 1 Letter f GDPR and, if applicable, Article 6 Paragraph 1 Letter b GDPR, if your request is aimed at concluding a contract. Your data will be deleted after your request has been processed, provided there are no legal storage requirements to the contrary. In the case of Art. 6 Para. 1 lit. f GDPR, you can object to the processing of your personal data at any time. 
+
+### Google Ads
+We use this service on our website.
+The service allows us to promote our offerings on external websites through advertisements and analyze the effectiveness of individual advertising campaigns. These ads are delivered via so-called "AdServers" provided by the service provider. To measure the success of our campaigns, we use AdServer cookies that collect certain parameters, such as the number of ad impressions or user clicks.
+If you reach our website through one of these ads, the service stores a cookie on your device. This cookie is not intended to personally identify you. Typically, it stores analytical data such as the unique cookie ID, the number of ad impressions per placement (frequency), the last impression (relevant for post-view conversions), and opt-out information (if the user no longer wishes to receive ads).
+These cookies enable the provider to recognize your web browser. If a user visits specific pages of our website and the stored cookie has not yet expired, the provider and we can detect that the user has clicked on an ad and been redirected to our site. Each advertiser is assigned a unique cookie, meaning cookies cannot be tracked across different advertisers' websites.
+We do not collect or process any personal data in these advertising measures. We only receive anonymized statistical evaluations from the provider, allowing us to assess the effectiveness of our ads. We do not obtain any further data from the use of advertising materials, particularly not information that could identify individual users.
+By using this marketing tool, your browser automatically establishes a direct connection to the provider's server. We have no control over the extent or further use of the data collected by the provider. According to our knowledge, the provider receives information that you have accessed a specific part of our website or clicked on one of our ads. If you have an account with the provider and are logged in, the provider may associate your visit with your user account. Even if you are not registered or logged in, the provider may still be able to determine and store your IP address.
+We use this service for marketing and optimization purposes, particularly to deliver relevant and engaging advertisements, improve our offerings, and make our website more appealing while avoiding unnecessary ads.
+Legal basis: Art. 6 (1) sentence 1 lit. a) GDPR (consent).
+
+Provider:
+Google Ireland Limited
+Google Building Gordon House
+Barrow St, 4 Dublin, Ireland
+Tel.: +353 1 543 1000
+Fax: +353 1 686 5660
+https://www.google.com/
+Privacy policy: https://policies.google.com/privacy?hl=en&gl=en
+
+### Google Analytics
+We use this service on our website.
+Legal basis: Art. 6 (1) sentence 1 lit. a) GDPR (consent).
+This service uses cookies—small text files stored on your device that enable an analysis of your use of our website. The information generated by the cookie about your website usage is generally transmitted to and stored on a server of the provider. If IP anonymization is activated on the website ("IP anonymization"), your IP address will first be truncated by the provider within member states of the European Union or in other contracting states of the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transmitted to a server outside the EU and shortened there.
+The provider of this service will use this information on our behalf to evaluate your use of our website, compile reports on website activity, and provide other services related to website and internet usage. Pseudonymous user profiles may be created from the processed data. The IP address transmitted by your browser as part of Google Analytics is not merged with other provider data.
+We use this service to analyze how our website is used and to continuously improve individual features, offerings, and the overall user experience. By statistically evaluating user behavior, we can enhance our services and make them more relevant for you. The data is deleted as soon as it is no longer necessary for the purpose of its collection.
+You can prevent cookies from being stored by adjusting the settings in your web browser. However, please note that this may limit your ability to use all functions of our website. If you want to prevent the collection of data generated by the cookie (including your IP address) and the processing of this data by the provider, you can download and install the browser plugin available at the following link:
+https://tools.google.com/dlpage/gaoptout?hl=en
+To ensure that the provider processes the transmitted data strictly in accordance with our instructions and in compliance with applicable data protection regulations, we have entered into a data processing agreement with the provider.
+
+Provider:
+Google Ireland Limited
+Google Building Gordon House
+Barrow St, 4 Dublin, Ireland
+Tel.: +353 1 543 1000
+Fax: +353 1 686 5660
+https://www.google.com/
 
 ---
 
@@ -108,8 +139,8 @@ We take reasonable measures to help protect your personal data from loss, theft,
 Our Services are not intended for individuals under the age of 18. We do not intentionally gather Personal Data from such individuals. If you become aware that a minor has provided us with Personal Data, please notify us.
 
 ## Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-Status of this data protection declaration: 09/nov/2024
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. 
+Status of this data protection declaration: 02/apr/2025
 
 ---
 

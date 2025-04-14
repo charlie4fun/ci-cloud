@@ -1,5 +1,5 @@
 ---
-title: "Human Capital Management"
+title: "IT-recruitment"
 description: "Our experienced HR team creates tailored solutions for hiring, managing, and developing employees, helping your business thrive"
 date: 2017-11-28T15:14:54+10:00
 weight: 1
