@@ -6,6 +6,8 @@ main:
     url: /services/
     weight: 1
     child:
+      - name: "IT recruitment"
+        url: /services/recruitment/
       - name: "Human Capital Management"
         url: /services/human-capital/
       - name: "DevOps Platforms"
@@ -13,7 +15,7 @@ main:
       - name: "Cloud Consulting"
         url: /services/cloud/
       - name: "Custom AI/ML solutions"
-        url: /services/web-design/
+        url: /services/ai-ml/
       - name: "Data Engineering"
         url: /services/data-eng/
       - name: "Software Engineering"

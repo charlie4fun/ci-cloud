@@ -1,7 +1,7 @@
 ---
 title: "IT-recruitment"
-description: "Our experienced HR team creates tailored solutions for hiring, managing, and developing employees, helping your business thrive"
-date: 2017-11-28T15:14:54+10:00
+description: "We offer turnkey solutions for IT recruitment"
+date: 2025-04-14T09:15:00+02:00
 weight: 1
 header_transparent: true
 fa_icon: false
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-1.webp"
 
 hero:
   enabled: true
-  heading: "Human Capital Management"
-  sub_heading: "Our experienced HR team creates tailored solutions for hiring, managing, and developing employees, helping your business thrive"
+  heading: "Fast, Reliable, and Flexible IT Recruitment Solutions"
+  sub_heading: "We offer turnkey solutions for IT recruitment"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
@@ -22,7 +22,7 @@ hero:
   fullscreen_desktop: false
   height: 660px
   buttons:
-    enabled: false
+    enabled: true
     list:
       - text: "Contact Us Now!" 
         url: "/contact"
@@ -33,16 +33,28 @@ hero:
         style: "primary"
 ---
 
-# What HR solutions are we offering?
-Discover top talent effortlessly with our support throughout the whole hiring process. Plan your team's growth and retention strategically for long-term success. Empower your employees with personalized learning experiences designed to achieve their goals. Boost efficiency and empower your team with self-service HR solutions and AI-support.
+Looking for top IT talent? We specialize in recruiting highly skilled professionals across a wide range of roles, including:
 
-> It's not just about hiring
+Software Developers, Data Engineers & Analysts, Data Scientists, DevOps Engineers, Project Managers, and more.
 
-# Human Resources Intelligence
-AI, once a sci-fi dream, now revolutionizes HR. It's not just about hiring, it's changing HR roles, boosting employee experience, and shaping corporate culture. We are proud to introduce AI tools for HR, touts the perks of automation, and dive with you into integrating AI into your business workflows.
+Whether you need full-time hires, contractors, or an entire project-based team—we’ve got you covered.
 
-# Workforce Solutions
-Unlock the benefits of nearshore hiring and elevate your team's capabilities. With a focus on cost-efficiency and accessing diverse talent pools, our nearshore solutions offer unparalleled expertise tailored to your business needs. Experience seamless collaboration and enhanced productivity nearshore partnerships.
+# Why Choose Us?
 
-# Employee Experience Innovators
-Crafting exceptional employee experiences is more than just a process, it's an art that begins from the moment a candidate applies and extends throughout their entire journey within the company. From designing engaging onboarding processes to fostering a supportive work environment and providing ongoing training opportunities, we ensure every aspect of the employee experience is meticulously curated for success and satisfaction. Let us help you create an environment where your employees thrive, driving both individual growth and organizational excellence.
+### Speed & Efficiency
+We have a robust network of pre-vetted specialists, including passive candidates who aren't actively job-hunting but are open to the right opportunity. This allows us to present the first candidates within just 1–2 days.
+
+### Complete Recruitment Handling
+From job advertisement to initial candidate screening, we take care of the entire pre-hiring process so you can focus on interviewing only the best.
+
+### Flexible Engagement Models
+Need someone full-time, part-time, or just for a project? We tailor our approach to your hiring goals.
+
+### Replacement Guarantee
+If a candidate doesn’t work out within an agreed timeframe, we provide a free replacement—no questions asked.
+
+### Dedicated Account Manager
+Enjoy personalized support from a single point of contact who fully understands your requirements and timeline.
+
+### Competitive Pricing
+Our pricing is among the most competitive in the market, delivering top-quality service without the high agency fees.

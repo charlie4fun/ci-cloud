@@ -1,8 +1,8 @@
 ---
 title: "Human Capital Management"
 description: "Our experienced HR team creates tailored solutions for hiring, managing, and developing employees, helping your business thrive"
-date: 2017-11-28T15:14:54+10:00
-weight: 1
+date: 2025-01-14T09:15:00+02:00
+weight: 7
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-hr-100.png"
