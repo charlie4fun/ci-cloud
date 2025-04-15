@@ -59,5 +59,5 @@ Enjoy personalized support from a single point of contact who fully understands 
 ### Competitive Pricing
 Our pricing is among the most competitive in the market, delivering top-quality service without the high agency fees.
 
+# <a href="/contact">Contact us</a> today to get started!
 Let us help you build the team that drives your business forward.
-# Contact us today to get started!

@@ -6,12 +6,14 @@ main:
     url: /services/
     weight: 1
     child:
+      - name: "Interim DevOps"
+        url: /services/devops-extern/
       - name: "IT recruitment"
         url: /services/recruitment/
       - name: "Human Capital Management"
         url: /services/human-capital/
       - name: "DevOps Platforms"
-        url: /services/devops/
+        url: /services/platforms/
       - name: "Cloud Consulting"
         url: /services/cloud/
       - name: "Custom AI/ML solutions"

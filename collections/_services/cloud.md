@@ -2,7 +2,7 @@
 title: "Cloud Consulting"
 description: "Improve productivity by utilising  on-demand services."
 date: 2025-01-14T09:15:00+02:00
-weight: 4
+weight: 8
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-cloud-100.png"
