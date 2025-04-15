@@ -49,7 +49,7 @@ Durch unser Netzwerk geprüfter und verlässlicher Interim-Spezialisten können 
 Wir schützen Sie vor rechtlichen Risiken: Unsere Prozesse und Vertragsgestaltung berücksichtigen die Anforderungen zur Vermeidung von Scheinselbstständigkeit – für maximale Sicherheit.
 
 ### Faire und transparente Konditionen
-Hochqualifizierte Unterstützung zu wettbewerbsfähigen Preisen – ohne versteckte Kosten.  - ПЕРЕВЕСТИ!
+Hochqualifizierte Unterstützung zu wettbewerbsfähigen Preisen – ohne versteckte Kosten.
 
-## Kontaktieren Sie uns für ein unverbindliches Beratungsgespräch!
+## <a href="/contact">Kontaktieren Sie uns</a> für ein unverbindliches Beratungsgespräch!
 Sichern Sie sich jetzt die Unterstützung erfahrener DevOps-Contractors – schnell, flexibel und rechtssicher.
