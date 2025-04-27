@@ -70,8 +70,11 @@ footer_secondary:
 #    url: /about/
 #    weight: 3
   - name: Team
-  - url: /team/
-  - weight: 3
+    url: /team/
+    weight: 3
+  - name: Contact
+    url: /contact/
+    weight: 4
 footer_tertiary:
   - name: Privacy Policy
     url: /privacy-policy/
@@ -79,9 +82,6 @@ footer_tertiary:
   - name: Impressum
     url: /impressum/
     weight: 2
-  - name: Conatact
-    url: /contact/
-    weight: 3
 bottom:
   - name: Privacy Policy
     url: /privacy-policy/
