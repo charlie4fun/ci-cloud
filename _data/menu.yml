@@ -37,9 +37,9 @@ main:
 #  - name: Blog
 #    url: /blog/
 #    weight: 4
-#  - name: About
-#    url: /about/
-#    weight: 5
+  - name: Team
+    url: /team/
+    weight: 5
   - name: Contact Us
     url: /contact/
     weight: 6
@@ -53,9 +53,9 @@ footer_primary:
 #  - name: Projects
 #    url: /projects/
 #    weight: 3
-#  - name: Team
-#    url: /team/
-#    weight: 4
+  - name: Team
+    url: /team/
+    weight: 4
 footer_secondary:
 #  - name: Blog
 #    url: /blog/
