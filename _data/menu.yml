@@ -53,9 +53,9 @@ footer_primary:
 #  - name: Projects
 #    url: /projects/
 #    weight: 3
-  - name: Team
-    url: /team/
-    weight: 4
+#  - name: Team
+#    url: /team/
+#    weight: 4
 footer_secondary:
 #  - name: Blog
 #    url: /blog/
@@ -69,9 +69,9 @@ footer_secondary:
 #  - name: About
 #    url: /about/
 #    weight: 3
-  - name: Contact
-    url: /contact/
-    weight: 4
+  - name: Team
+  - url: /team/
+  - weight: 3
 footer_tertiary:
   - name: Privacy Policy
     url: /privacy-policy/
@@ -79,7 +79,7 @@ footer_tertiary:
   - name: Impressum
     url: /impressum/
     weight: 2
-  - name: Get a Quote
+  - name: Conatact
     url: /contact/
     weight: 3
 bottom:
