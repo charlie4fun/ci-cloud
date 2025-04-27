@@ -61,3 +61,5 @@ Our pricing is among the most competitive in the market, delivering top-quality 
 
 # <a href="/contact">Contact us</a> today to get started!
 Let us help you build the team that drives your business forward.
+
+{% include framework/shortcodes/team.html %}
