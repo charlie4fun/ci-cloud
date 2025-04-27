@@ -53,3 +53,5 @@ Hochqualifizierte Unterstützung zu wettbewerbsfähigen Preisen – ohne verstec
 
 ## <a href="/contact">Kontaktieren Sie uns</a> für ein unverbindliches Beratungsgespräch!
 Sichern Sie sich jetzt die Unterstützung erfahrener DevOps-Contractors – schnell, flexibel und rechtssicher.
+{% include framework/shortcodes/figure.html full=true src="/assets/images/team/ilya.phg" title="Contact Ilya"  caption="Contact Us on LinkedIn!" alt="Ilya's business card from LinkedIn" link="https://www.linkedin.com/in/iisakov/" target="_blank" %}
+
