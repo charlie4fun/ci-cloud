@@ -163,8 +163,8 @@ cookie_banner:
   show_manage_cookies_at_bottom: true
 
 analytics:
-  google_analytics_id: "G-08T34RNKQB" # "G-SL5FWY00S6" # G-XXXXXXXXXX
-  gtm_id: "" # GTM-XXXXXXXX
+  google_analytics_id: "G-08T34RNKQB" # G-XXXXXXXXXX
+  gtm_id: "GTM-WBF27J36" # GTM-XXXXXXXX
   plausible_data_domain: "" # example: mywebsite.com
   umami_data_website_id: "" # example: "ddd14336-5fb0-4cdd-8f32-e1bfa906cc2b"
   umami_src: "" # "https://analytics.eu.umami.is/script.js"
