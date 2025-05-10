@@ -50,4 +50,4 @@ Crafting exceptional employee experiences is more than just a process, it's an a
 ## <a href="/contact" color="#6f42c1">Kontaktieren Sie uns</a> für ein unverbindliches Beratungsgespräch!
 Sichern Sie sich jetzt die Unterstützung erfahrener DevOps-Contractors – schnell, flexibel und rechtssicher.
 
-{% include framework/shortcodes/team.html %}
+{% include framework/shortcodes/team2.html %}
