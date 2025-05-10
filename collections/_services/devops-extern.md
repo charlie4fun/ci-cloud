@@ -59,8 +59,7 @@ Wir schützen Sie vor rechtlichen Risiken: Unsere Prozesse und Vertragsgestaltun
 ### Faire und transparente Konditionen
 Sie erhalten hochqualifizierte hochqualifizierte Unterstützung zu wettbewerbsfähigen Preisen – ohne versteckte Kosten oder lange Wartezeiten
 
-## <a href="/contact" color="#6f42c1">Kontaktieren Sie uns</a> für ein unverbindliches Beratungsgespräch!
+## <a href="/contact" style="color:#0d6efd;">Kontaktieren Sie uns</a> für ein unverbindliches Beratungsgespräch!
 Sichern Sie sich jetzt die Unterstützung erfahrener DevOps-Contractors – schnell, flexibel und rechtssicher.
 
-{% include framework/shortcodes/team.html %}
-
+{% include framework/shortcodes/team2.html %}
