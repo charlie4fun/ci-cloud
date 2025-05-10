@@ -2,7 +2,7 @@
 title: "Software Development and Architecture"
 description: "Building complex web applications and system software."
 date: 2025-01-14T09:15:00+02:00
-weight: 6
+weight: 9
 header_transparent: true
 fa_icon: "fab fa-codepen"
 icon: "assets/images/icons/icons8-merge-git-100.png"

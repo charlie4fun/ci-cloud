@@ -2,7 +2,7 @@
 title: "Custom AI/ML Solutions"
 description: "Improving search engine rankings through techincal on page SEO and content creation."
 date: 2025-01-14T09:15:00+02:00
-weight: 5
+weight: 8
 header_transparent: true
 fa_icon: "far fa-chart-bar"
 icon: "assets/images/icons/icons8-ai-100.png"

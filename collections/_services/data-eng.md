@@ -2,7 +2,7 @@
 title: "Data Engineering"
 description: "Data is the cornerstone of business success, enabling informed decisions, innovation, and adaptability."
 date: 2025-01-14T09:15:00+02:00
-weight: 3
+weight: 6
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-data-100.png"

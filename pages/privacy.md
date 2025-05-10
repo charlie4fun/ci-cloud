@@ -92,6 +92,22 @@ Tel.: +353 1 543 1000
 Fax: +353 1 686 5660
 https://www.google.com/
 
+### Google Tag Manager
+We use the service on our website.
+The service allows us, as marketers, to manage website tags via an interface. The tool that implements the tags operates on a cookie-less domain and does not itself collect any personal data. The service triggers other tags, which in turn may collect data. The service does not access this data. If a deactivation has been carried out at the domain or cookie level, it remains in effect for all tracking tags implemented with the service.
+
+Provider:
+Google Ireland Limited
+Google Building Gordon House
+Barrow St
+4 Dublin
+Irland
+Tel. +353 1 543 1000
+Fax +353 1 686 5660
+https://www.google.com/
+
+https://policies.google.com/privacy?hl=en&gl=en
+
 ---
 
 ## Information We Collect

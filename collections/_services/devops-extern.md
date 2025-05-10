@@ -2,7 +2,7 @@
 title: "DevOps Consulting and Contracting Services"
 description: "Interim DevOps-Experten für Ihre Cloud: DevOps Consulting für mehr Agilität & Effizienz – mit erfahrenen Contractors auf freiberuflicher Basis."
 date: 2025-04-30
-weight: 4
+weight: 1
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-cloud-100.png"

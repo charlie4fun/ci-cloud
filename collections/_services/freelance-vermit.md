@@ -1,8 +1,8 @@
 ---
-title: "Human Capital Management"
+title: "Freelance Vermittlung"
 description: "Our experienced HR team creates tailored solutions for hiring, managing, and developing employees, helping your business thrive"
 date: 2025-01-14T09:15:00+02:00
-weight: 7
+weight: 2
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-hr-100.png"
@@ -46,3 +46,8 @@ Unlock the benefits of nearshore hiring and elevate your team's capabilities. Wi
 
 # Employee Experience Innovators
 Crafting exceptional employee experiences is more than just a process, it's an art that begins from the moment a candidate applies and extends throughout their entire journey within the company. From designing engaging onboarding processes to fostering a supportive work environment and providing ongoing training opportunities, we ensure every aspect of the employee experience is meticulously curated for success and satisfaction. Let us help you create an environment where your employees thrive, driving both individual growth and organizational excellence.
+
+## <a href="/contact" color="#6f42c1">Kontaktieren Sie uns</a> für ein unverbindliches Beratungsgespräch!
+Sichern Sie sich jetzt die Unterstützung erfahrener DevOps-Contractors – schnell, flexibel und rechtssicher.
+
+{% include framework/shortcodes/team.html %}

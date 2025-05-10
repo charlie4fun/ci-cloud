@@ -2,7 +2,7 @@
 title: "DevOps Platforms"
 description: "Automation, standardization and predictable result."
 date: 2025-01-14T09:15:00+02:00
-weight: 2
+weight: 5
 header_transparent: true
 icon: "assets/images/icons/icons8-devops-100.png"
 thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"

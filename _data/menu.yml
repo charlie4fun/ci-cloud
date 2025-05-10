@@ -8,10 +8,10 @@ main:
     child:
       - name: "Interim DevOps"
         url: /services/devops-extern/
+      - name: "Freelance Vermittlung"
+        url: /services/freelance-vermit/
       - name: "IT recruitment"
         url: /services/recruitment/
-      - name: "Human Capital Management"
-        url: /services/human-capital/
       - name: "DevOps Platforms"
         url: /services/platforms/
       - name: "Cloud Consulting"
