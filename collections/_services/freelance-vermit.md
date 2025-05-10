@@ -48,7 +48,7 @@ Sie zahlen nur, wenn wir den passenden Experten finden
 ### <i class="fas fa-check mr-1"></i> Kostenlose Ersatzstellung
 Schneller und kostenloser Austausch bei Bedarf
 
-## <a href="/contact" color="#6f42c1">Kontaktieren Sie uns</a> für ein unverbindliches Beratungsgespräch!
+## <a href="/contact" style="color:#6f42c1;">Kontaktieren Sie uns</a> für ein unverbindliches Beratungsgespräch!
 Sichern Sie sich jetzt die Unterstützung erfahrener IT-Contractors – schnell, flexibel und rechtssicher.
 
 {% include framework/shortcodes/team2.html %}

@@ -2,7 +2,7 @@
 title: "IT recruitment"
 description: "We offer turnkey solutions for IT recruitment"
 date: 2025-04-14T09:15:00+02:00
-weight: 3
+weight: 10
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-hr-100.png"
