@@ -1,6 +1,6 @@
 ---
-title: "Freelance Vermittlung"
-description: "Our experienced HR team creates tailored solutions for hiring, managing, and developing employees, helping your business thrive"
+title: "Freelancer & Interim Profis Vermittlung"
+description: "Wir sind spezialisiert auf die Vermittlung von IT-Freelancern und bieten Ihnen schnellen Zugang zu hochqualifizierten Fachkräften. "
 date: 2025-01-14T09:15:00+02:00
 weight: 2
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-1.webp"
 
 hero:
   enabled: true
-  heading: "Human Capital Management"
-  sub_heading: "Our experienced HR team creates tailored solutions for hiring, managing, and developing employees, helping your business thrive"
+  heading: "IT Expertenvermittlung für Unternehmen"
+  sub_heading: "Freelancer Vermittlung für IT-Projekte: Schnell. Passgenau. Sicher."
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
@@ -32,22 +32,23 @@ hero:
         outline: false
         style: "primary"
 ---
+Wir vermitteln hochqualifizierte Freelancer und Interim-Professionals — passgenau auf Ihre Projektanforderungen abgestimmt. Ob beim Aufbau digitaler Plattformen, der Modernisierung von Legacy-Systemen oder zur temporären Unterstützung Ihres Teams: Unser Netzwerk geprüfter IT-Experten hält Ihr Unternehmen agil und zukunftssicher.
 
-# What HR solutions are we offering?
-Discover top talent effortlessly with our support throughout the whole hiring process. Plan your team's growth and retention strategically for long-term success. Empower your employees with personalized learning experiences designed to achieve their goals. Boost efficiency and empower your team with self-service HR solutions and AI-support.
-
-> It's not just about hiring
-
-# Human Resources Intelligence
-AI, once a sci-fi dream, now revolutionizes HR. It's not just about hiring, it's changing HR roles, boosting employee experience, and shaping corporate culture. We are proud to introduce AI tools for HR, touts the perks of automation, and dive with you into integrating AI into your business workflows.
-
-# Workforce Solutions
-Unlock the benefits of nearshore hiring and elevate your team's capabilities. With a focus on cost-efficiency and accessing diverse talent pools, our nearshore solutions offer unparalleled expertise tailored to your business needs. Experience seamless collaboration and enhanced productivity nearshore partnerships.
-
-# Employee Experience Innovators
-Crafting exceptional employee experiences is more than just a process, it's an art that begins from the moment a candidate applies and extends throughout their entire journey within the company. From designing engaging onboarding processes to fostering a supportive work environment and providing ongoing training opportunities, we ensure every aspect of the employee experience is meticulously curated for success and satisfaction. Let us help you create an environment where your employees thrive, driving both individual growth and organizational excellence.
+##  Warum mit uns zusammenarbeiten?
+### <i class="fas fa-check mr-1"></i> Schnelligkeit & Effizienz
+Einsatzbereite Experten innerhalb von 48 Stunden
+### <i class="fas fa-check mr-1"></i> Qualitätsmatching
+Vorauswahl und Validierung der Fachkompetenz
+### <i class="fas fa-check mr-1"></i> Flexible Zusammenarbeit
+Kurzfristige Einsätze bis hin zu langfristiger Unterstützung
+### <i class="fas fa-check mr-1"></i> Rechtliche Sicherheit
+Volle Compliance, inkl. Schutz vor Scheinselbstständigkeit
+### <i class="fas fa-check mr-1"></i> Erfolgsbasierte Vergütung
+Sie zahlen nur, wenn wir den passenden Experten finden
+### <i class="fas fa-check mr-1"></i> Kostenlose Ersatzstellung
+Schneller und kostenloser Austausch bei Bedarf
 
 ## <a href="/contact" color="#6f42c1">Kontaktieren Sie uns</a> für ein unverbindliches Beratungsgespräch!
-Sichern Sie sich jetzt die Unterstützung erfahrener DevOps-Contractors – schnell, flexibel und rechtssicher.
+Sichern Sie sich jetzt die Unterstützung erfahrener IT-Contractors – schnell, flexibel und rechtssicher.
 
 {% include framework/shortcodes/team2.html %}
