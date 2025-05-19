@@ -19,6 +19,7 @@
     font-family: $font-family-base;
   }
 }
+
 .grid-header {
   h2 {
     text-transform: uppercase;
@@ -38,5 +39,17 @@
   .card-services {
     padding: 25px;
     background-color: var(--color-base-bg-3);
+  }
+}
+
+.primary-color {
+  color: var(--color-primary-bg);
+}
+
+.section_grid-item h3 {
+  margin-top: 10px;
+  svg {
+    width: 40px;
+    height: 40px;
   }
 }

@@ -36,28 +36,15 @@ hero:
 ## Vorteile von Interim DevOps
 Unsere DevOps-Experten bieten flexible, effiziente und rechtssichere Unterstützung für die Optimierung Ihrer IT-Infrastruktur oder die Verstärkung Ihres Entwicklungsteams – genau dann, wenn Sie sie es brauchen.
 
-### <i class="fas fa-check mr-1"></i> Infrastruktur effizient optimieren
+### <i class="fas fa-check mr-1 primary-color"></i> Infrastruktur effizient optimieren
 Optimieren Sie Ihre Infrastruktur und Ihre Softwareentwicklung mit modernen DevOps Practices – für mehr Effizienz, Automatisierung und Skalierbarkeit, auch in Cloud-Umgebungen. 
-### <i class="fas fa-check mr-1"></i> Verstärkung für Ihr Team
+### <i class="fas fa-check mr-1 primary-color"></i> Verstärkung für Ihr Team
 Unsere freiberuflichen DevOps-Contractors ergänzen Ihr Team gezielt und punktuell, sei es für agile Entwicklung, die Implementierung von CI/CD-Pipelines, die Containerisierung mit Docker oder die Optimierung Ihrer Cloud-Infrastruktur in AWS, Azure oder hybriden Umgebungen.
-### <i class="fas fa-check mr-1"></i> Rechtssichere Zusammenarbeit und Qualität
+### <i class="fas fa-check mr-1 primary-color"></i> Rechtssichere Zusammenarbeit und Qualität
 Wir bieten geprüfte Modelle für das IT-Contracting, bei denen rechtliche Sicherheit im Vordergrund steht. Gleichzeitig sorgen unsere Consultants für nachhaltige Verbesserung in Bereichen wie Monitoring, Automatisierung und Betrieb.
 
-## Warum mit uns zusammenarbeiten?
-### Wachsen Sie schneller – mit den richtigen Experten
-Unsere erfahrenen DevOps-Contractors helfen Ihnen dabei, Ihre Prozesse zu automatisieren, Systeme zu skalieren und Releases zu beschleunigen – damit Sie Ihre Ziele schneller erreichen.
-
-### Nutzen Sie unser Know-how für Ihren Erfolg
-Wir verstehen, worauf es im DevOps-Bereich ankommt. Unsere Recruiter finden passgenaue Spezialisten für Ihre Herausforderungen – ob Kubernetes, CI/CD, Cloud oder Monitoring.
-
-### Schnelle Vermittlung aus einem starken Netzwerk
-Durch unser Netzwerk geprüfter und verlässlicher Interim-Spezialisten können wir Ihnen oft innerhalb von 1–2 Tagen passende Profile vorstellen.
-
-### Rechtssicher dank Scheinselbstständigkeits-Prüfung
-Wir schützen Sie vor rechtlichen Risiken: Unsere Prozesse und Vertragsgestaltung berücksichtigen die Anforderungen zur Vermeidung von Scheinselbstständigkeit – für maximale Sicherheit.
-
-### Faire und transparente Konditionen
-Sie erhalten hochqualifizierte hochqualifizierte Unterstützung zu wettbewerbsfähigen Preisen – ohne versteckte Kosten oder lange Wartezeiten
+{% include  /framework/blocks/sections/section-grid.html 
+data = "warum-mit-uns-zusammenarbeiten"%}
 
 ## <a href="/contact" style="color:#0d6efd;">Kontaktieren Sie uns</a> für ein unverbindliches Beratungsgespräch!
 Sichern Sie sich jetzt die Unterstützung erfahrener DevOps-Contractors – schnell, flexibel und rechtssicher.
