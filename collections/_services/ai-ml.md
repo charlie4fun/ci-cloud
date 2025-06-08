@@ -1,7 +1,7 @@
 ---
 title: "Custom AI/ML Solutions"
-description: "Improving search engine rankings through techincal on page SEO and content creation."
-date: 2025-01-14T09:15:00+02:00
+description: "Daily routine, such as: reporting, code reviewing, performance tracking, etc. could be improved through AI/ML."
+date: 2025-06-07
 weight: 8
 header_transparent: true
 fa_icon: "far fa-chart-bar"
@@ -12,7 +12,7 @@ image: "/assets/images/gen/services/service-5.webp"
 hero:
   enabled: true
   heading: "Custom AI/ML Solutions"
-  sub_heading: "Improving search engine rankings through techincal on page SEO and content creation."
+  sub_heading: "Daily routine, such as: reporting, code reviewing, performance tracking, etc. could be improved through AI/ML."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
