@@ -28,7 +28,7 @@ icon: "images/icons/icons8-cloud-100.png"
 hero:
   height: 600px
   headings:
-    heading: "DevOps-Beratungs- und Unterstützungsdienstleistungen"
+    heading: "DevOps Beratung und Beistand"
     sub_heading: "Skalieren Sie schneller mit erfahrenen DevOps-Contractors."
   background:
     background_image: "images/photos/services/consulting-large.webp"
