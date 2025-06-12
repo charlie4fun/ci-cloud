@@ -1,7 +1,7 @@
 ---
 title: "Software Engineering"
-description: "Building complex web applications and system software."
-date: 2019-10-03
+description: "Entwicklung komplexer Webanwendungen und Systemsoftware."
+date: 2025-06-13
 weight: 3
 
 header_transparent: true
@@ -21,61 +21,61 @@ image: ""
 hero:
   headings:
     heading: "Software Engineering"
-    sub_heading: "Building complex web applications and system software."
+    sub_heading: "Entwicklung komplexer Webanwendungen und Systemsoftware."
   background:
     background_image: "images/photos/services/software-engineering-large.webp"
     background_image_blend_mode: "overlay"
     background_gradient: true
 ---
 
-# Creating Modern Software
+# Moderne Softwareentwicklung
 
-Application development typically follows a series of stages that help ensure a structured and systematic approach to creating software. We offer support and guidance on every step of application development:
-
-    Planning and Requirement Analysis:
-        Requirement Gathering: Understanding the needs and expectations of the stakeholders.
-        Feasibility Study: Analyzing the technical, operational, and economic feasibility of the project.
-        Project Planning: Defining the scope, objectives, resources, and timeline.
+Die Entwicklung von Anwendungen erfolgt typischerweise in mehreren Phasen, die eine strukturierte und systematische Vorgehensweise sicherstellen. Wir bieten Unterstützung und Beratung in jedem Schritt der Softwareentwicklung:
+    
+    Planung und Anforderungsanalyse:
+        Anforderungserhebung: Verstehen der Bedürfnisse und Erwartungen der Stakeholder.
+        Machbarkeitsstudie: Analyse der technischen, betrieblichen und wirtschaftlichen Realisierbarkeit des Projekts.
+        Projektplanung: Festlegung des Umfangs, der Ziele, Ressourcen und des Zeitrahmens.
 
     Design:
-        System Design: Outlining the overall system architecture, including hardware and software requirements.
-        Software Design: Creating detailed design documents that specify the application’s functionality, interfaces, and components.
-            High-Level Design (HLD): Describing the system architecture and data flow.
-            Low-Level Design (LLD): Detailing the individual components, modules, and interfaces.
+        Systemdesign: Entwurf der Gesamtarchitektur, einschließlich Hardware- und Softwareanforderungen.
+        Softwaredesign: Erstellung detaillierter Designdokumente, die die Funktionalität, Schnittstellen und Komponenten der Anwendung spezifizieren.
+            High-Level Design (HLD): Beschreibung der Systemarchitektur und des Datenflusses.
+            Low-Level Design (LLD): Detaillierte Spezifikation einzelner Komponenten, Module und Schnittstellen.
 
-    Implementation (Coding):
-        Development: Writing the code according to the design specifications.
-        Unit Testing: Testing individual components or modules to ensure they function correctly.
+    Implementierung (Codierung):
+        Entwicklung: Programmierung gemäß den Designvorgaben.
+        Komponententest (Unit Testing): Test einzelner Module oder Komponenten zur Sicherstellung ihrer Funktionalität.
 
-    Testing:
-        Integration Testing: Combining individual modules and testing them as a group.
-        System Testing: Testing the entire system for defects and ensuring it meets the specified requirements.
-        Acceptance Testing: Conducting tests to verify that the system meets the business requirements and is ready for deployment.
-            User Acceptance Testing (UAT): Testing by end-users to validate functionality and usability.
+    Testphase:
+        Integrationstests: Zusammenführung und gemeinsames Testen einzelner Module.
+        Systemtests: Test des Gesamtsystems auf Fehler und Einhaltung der Anforderungen.
+        Abnahmetests: Verifizierung, dass das System den geschäftlichen Anforderungen entspricht und bereit für die Einführung ist.
+            User Acceptance Testing (UAT): Durchführung von Tests durch Endnutzer zur Überprüfung von Funktionalität und Benutzerfreundlichkeit.
 
-    Deployment:
-        Release Management: Planning and managing the release of the application to the production environment.
-        Deployment: Installing and configuring the application in the production environment.
+    Bereitstellung (Deployment):
+        Release-Management: Planung und Steuerung der Freigabe in die Produktionsumgebung.
+        Deployment: Installation und Konfiguration der Anwendung in der Live-Umgebung.
 
-    Maintenance:
-        Monitoring: Continuously monitoring the application for issues, performance, and usage.
-        Bug Fixes: Identifying and fixing defects that were not discovered during testing.
-        Updates and Enhancements: Adding new features or making improvements based on user feedback and changing requirements.
+    Wartung:
+        Überwachung: Kontinuierliches Monitoring der Anwendung in Bezug auf Leistung, Nutzung und Probleme.
+        Fehlerbehebungen: Identifikation und Behebung von Fehlern, die in der Testphase nicht entdeckt wurden.
+        Updates und Erweiterungen: Hinzufügen neuer Funktionen oder Anpassungen basierend auf Nutzerfeedback und geänderten Anforderungen.
 
-## Iterative and Agile Approaches
+## Iterative und agile Vorgehensmodelle
 
-In modern software development, iterative and agile methodologies are often used, allowing for more flexibility and continuous improvement throughout the development process. These approaches include:
+In der modernen Softwareentwicklung kommen häufig iterative und agile Methoden zum Einsatz, die mehr Flexibilität und kontinuierliche Verbesserung ermöglichen:
 
-    Agile Development: Focusing on iterative progress through small, manageable chunks called sprints. Agile promotes adaptive planning, evolutionary development, early delivery, and continuous improvement.
-    Scrum: A framework within Agile that uses fixed-length iterations called sprints, usually lasting 2-4 weeks, with specific roles such as Scrum Master and Product Owner.
-    Kanban: Another Agile methodology focusing on continuous delivery without overburdening the development team. Work items are visualized on a Kanban board to track progress and workflow.
+    Agile Entwicklung: Iterative Fortschritte in kleinen, überschaubaren Abschnitten (Sprints). Agile Methoden fördern anpassungsfähige Planung, frühe Auslieferung und stetige Verbesserung.
+    Scrum: Rahmenwerk innerhalb von Agile, das mit festen Iterationen (Sprints) arbeitet – in der Regel 2–4 Wochen – mit klar definierten Rollen wie Scrum Master und Product Owner.
+    Kanban: Eine weitere agile Methode, die auf kontinuierliche Auslieferung ohne Überlastung des Teams abzielt. Aufgaben werden auf einem Kanban-Board visualisiert, um Fortschritte und Arbeitsabläufe zu verfolgen.
 
-## DevOps Integration
+## DevOps-Integration
 
-DevOps practices integrate development and operations to enhance collaboration and efficiency in the development lifecycle, emphasizing:
+DevOps-Praktiken verbinden Entwicklung und Betrieb, um die Zusammenarbeit und Effizienz im Entwicklungszyklus zu verbessern. Im Fokus stehen:
 
-    Continuous Integration (CI): Regularly integrating code changes into a shared repository, followed by automated builds and testing.
-    Continuous Delivery (CD): Automatically deploying code changes to a staging or production environment after passing tests.
-    Infrastructure as Code (IaC): Managing and provisioning computing infrastructure through machine-readable configuration files, enhancing consistency and automation.
+    Continuous Integration (CI): Regelmäßiges Integrieren von Code-Änderungen in ein zentrales Repository mit automatisierten Builds und Tests.
+    Continuous Delivery (CD): Automatische Bereitstellung von getesteten Code-Änderungen in Staging- oder Produktionsumgebungen.
+    Infrastructure as Code (IaC): Verwaltung und Bereitstellung der Infrastruktur durch maschinenlesbare Konfigurationsdateien – für mehr Konsistenz und Automatisierung.
 
-By following these stages and adopting iterative and DevOps practices, application development can be more efficient, reliable, and aligned with user needs.
+Durch die Anwendung dieser Entwicklungsphasen sowie den Einsatz iterativer und DevOps-Methoden wird die Softwareentwicklung effizienter, zuverlässiger und besser auf die Bedürfnisse der Nutzer abgestimmt.

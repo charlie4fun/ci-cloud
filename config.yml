@@ -148,7 +148,7 @@ params:
     enabled: true
     enable_bottom_menu: true
     copyright_text: "© 2025 Cirro Cloud GmbH"
-    show_rss_icon: true
+    show_rss_icon: false
 
 languages:
   en:

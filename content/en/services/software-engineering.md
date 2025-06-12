@@ -1,7 +1,7 @@
 ---
 title: "Software Engineering"
 description: "Building complex web applications and system software."
-date: 2019-10-03
+date: 2025-06-13
 weight: 3
 
 header_transparent: true
