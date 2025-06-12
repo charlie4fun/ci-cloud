@@ -19,6 +19,7 @@ thumbnail: "images/photos/services/consulting-large.webp"
 icon: "images/icons/icons8-cloud-100.png"
 
 hero:
+  height: 500px
   headings:
     heading: "DevOps Consulting and Contracting Services"
     sub_heading: "Interim DevOps-Experten für Ihre Cloud: DevOps Consulting für mehr Agilität & Effizienz – mit erfahrenen Contractors auf freiberuflicher Basis."

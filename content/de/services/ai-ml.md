@@ -19,6 +19,7 @@ thumbnail: "images/photos/services/ai-large.webp"
 icon: "images/icons/icons8-ai-100.png"
 
 hero:
+  height: 500px
   headings:
     heading: "Custom AI/ML Solutions"
     sub_heading: "Daily routine, such as: reporting, code reviewing, performance tracking, etc. could be improved through AI/ML."

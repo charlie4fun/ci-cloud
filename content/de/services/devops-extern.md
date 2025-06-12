@@ -26,6 +26,7 @@ thumbnail: "images/photos/services/consulting-large.webp"
 icon: "images/icons/icons8-cloud-100.png"
 
 hero:
+  height: 500px
   headings:
     heading: "DevOps-Beratungs- und Unterstützungsdienstleistungen"
     sub_heading: "Skalieren Sie schneller mit erfahrenen DevOps-Contractors."

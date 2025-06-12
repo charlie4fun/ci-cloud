@@ -19,6 +19,7 @@ thumbnail: "images/photos/services/software-engineering-large.webp"
 image: ""
 
 hero:
+  height: 500px
   headings:
     heading: "Software Engineering"
     sub_heading: "Entwicklung komplexer Webanwendungen und Systemsoftware."

@@ -18,6 +18,7 @@ thumbnail: "images/photos/services/dataeng-large.webp"
 image: ""
 
 hero:
+  height: 500px
   headings:
     heading: "Data Engineering"
     sub_heading: "Daten sind das Fundament des Geschäftserfolgs, da sie fundierte Entscheidungen, Innovationen und Anpassungsfähigkeit ermöglichen."

@@ -18,6 +18,7 @@ thumbnail: "images/photos/services/dataeng-large.webp"
 image: ""
 
 hero:
+  height: 500px
   headings:
     heading: "Data Engineering"
     sub_heading: "Data is the cornerstone of business success, enabling informed decisions, innovation, and adaptability."

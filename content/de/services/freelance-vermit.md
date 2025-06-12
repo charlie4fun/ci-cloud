@@ -19,6 +19,7 @@ thumbnail: "images/photos/services/network-large.webp"
 icon: "images/icons/icons8-user-engagement-male-100.png"
 
 hero:
+  height: 500px
   headings:
     heading: "IT Expertenvermittlung für Unternehmen"
     sub_heading: "Freelancer Vermittlung für IT-Projekte: Schnell. Passgenau. Sicher."

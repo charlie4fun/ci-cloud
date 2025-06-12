@@ -19,6 +19,7 @@ thumbnail: "images/photos/services/network-large.webp"
 icon: "images/icons/icons8-user-engagement-male-100.png"
 
 hero:
+  height: 500px
   headings:
     heading: "IT Expert Placement for Companies"
     sub_heading: "Freelancer placement for IT projects: Fast. Precise. Reliable."

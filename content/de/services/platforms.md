@@ -18,6 +18,7 @@ thumbnail: "images/photos/services/devops-large.webp"
 image: ""
 
 hero:
+  height: 500px
   headings:
     heading: "DevOps Platforms"
     sub_heading: "Automation, standardization and predictable result."
