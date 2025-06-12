@@ -1,6 +1,6 @@
 ---
 title: "DevOps Consulting and Contracting"
-description: "Interim DevOps-Experten für Ihre Cloud: DevOps Consulting für mehr Agilität & Effizienz – mit erfahrenen Contractors auf freiberuflicher Basis."
+description: "DevOps consulting for greater agility & efficiency – with experienced freelance contractors."
 date: 2025-04-01
 weight: 1
 
@@ -29,7 +29,7 @@ hero:
   height: 600px
   headings:
     heading: "DevOps Consulting and Contracting "
-    sub_heading: "Interim DevOps-Experten für Ihre Cloud: DevOps Consulting für mehr Agilität & Effizienz – mit erfahrenen Contractors auf freiberuflicher Basis."
+    sub_heading: "Scale fast with experienced DevOps-contractors."
   background:
     background_image: "images/photos/services/consulting-large.webp"
     background_image_blend_mode: "overlay"
