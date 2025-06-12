@@ -1,14 +1,21 @@
 ---
-title: "DevOps Consulting and Contracting Services"
+title: "DevOps Consulting and Contracting"
 description: "Interim DevOps-Experten für Ihre Cloud: DevOps Consulting für mehr Agilität & Effizienz – mit erfahrenen Contractors auf freiberuflicher Basis."
 date: 2025-04-01
 weight: 1
 
 header_transparent: true
 
+meta: 
+  title: "DevOps Consulting and Support Services"
+  description: "DevOps expert support for optimizing your IT infrastructure or strengthening your development team"
+  og_title: "DevOps Expert Support. IT Infrastructure Optimization"
+  og_image: "images/photos/services/consulting-large.webp"
+  og_description: "Interim DevOps experts for you: DevOps consulting for greater agility & efficiency – with experienced freelance contractors."
+
 menu:
   main:
-    name: "Interim DevOps"
+    name: "DevOps Consulting"
     weight: 1
     parent: "services"
     params:
@@ -19,9 +26,9 @@ thumbnail: "images/photos/services/consulting-large.webp"
 icon: "images/icons/icons8-cloud-100.png"
 
 hero:
-  height: 500px
+  height: 600px
   headings:
-    heading: "DevOps Consulting and Contracting Services"
+    heading: "DevOps Consulting and Contracting "
     sub_heading: "Interim DevOps-Experten für Ihre Cloud: DevOps Consulting für mehr Agilität & Effizienz – mit erfahrenen Contractors auf freiberuflicher Basis."
   background:
     background_image: "images/photos/services/consulting-large.webp"
