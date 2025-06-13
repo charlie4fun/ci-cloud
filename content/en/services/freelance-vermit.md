@@ -6,9 +6,16 @@ weight: 2
 
 header_transparent: true
 
+meta:
+  title: "IT Expert Staffing for Companies"
+  description: "Fast and reliable placement of vetted IT freelancers & interim experts. Flexible, compliant, and tailored to your project needs."
+  og_title: "On-Demand IT Experts – Vetted, Flexible & Compliant"
+  og_image: "images/photos/services/consulting-large.webp"
+  og_description: "Quick access to qualified IT freelancers for your business – with skill validation, legal compliance, and success-based pricing."
+
 menu:
   main:
-    name: "Freelancer Placement"
+    name: "IT Experts for Companies"
     weight: 2
     parent: "services"
     params:
@@ -19,9 +26,9 @@ thumbnail: "images/photos/services/network-large.webp"
 icon: "images/icons/icons8-user-engagement-male-100.png"
 
 hero:
-  height: 500px
+  height: 600px
   headings:
-    heading: "IT Expert Placement for Companies"
+    heading: "IT Experts for Companies"
     sub_heading: "Freelancer placement for IT projects: Fast. Precise. Reliable."
   background:
     background_image: "images/photos/services/network-large.webp"

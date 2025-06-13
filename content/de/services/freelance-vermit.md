@@ -6,9 +6,16 @@ weight: 2
 
 header_transparent: true
 
+meta:
+  title: "IT-Expertenvermittlung für Unternehmen"
+  description: "Vermittlung geprüfter IT-Freelancer & Interim-Experten – schnell, flexibel und rechtssicher. Passgenau für Ihre Projekte."
+  og_title: "IT-Experten auf Abruf. Flexibel, geprüft & rechtssicher"
+  og_image: "images/photos/services/consulting-large.webp"
+  og_description: "Schnelle Vermittlung qualifizierter IT-Freelancer für Ihr Unternehmen – inklusive Qualitätsmatching, rechtlicher Absicherung und erfolgsbasierter Vergütung."
+
 menu:
   main:
-    name: "Freiberufler Vermittlung"
+    name: "IT-Experten für Unternehmen"
     weight: 2
     parent: "services"
     params:
@@ -19,9 +26,9 @@ thumbnail: "images/photos/services/network-large.webp"
 icon: "images/icons/icons8-user-engagement-male-100.png"
 
 hero:
-  height: 500px
+  height: 600px
   headings:
-    heading: "IT Expertenvermittlung für Unternehmen"
+    heading: "IT-Experten für Unternehmen"
     sub_heading: "Freelancer Vermittlung für IT-Projekte: Schnell. Passgenau. Sicher."
   background:
     background_image: "images/photos/services/network-large.webp"
