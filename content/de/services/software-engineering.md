@@ -6,6 +6,13 @@ weight: 3
 
 header_transparent: true
 
+meta: 
+  title: "Java-Entwicklungs- und Unterstützungsdienstleistungen"
+  description: "Erfahrene Java-Entwickler für die Umsetzung Ihrer Projekte oder als flexible Verstärkung Ihres Teams"
+  og_title: "Java-Experten Unterstützung. Entwicklung effizient umsetzen"
+  og_image: "images/photos/services/consulting-large.webp"
+  og_description: "Interim Java Developer für Sie: Projektbezogene Java-Entwicklung mit erfahrenen Freiberuflern – schnell, flexibel und rechtssicher."
+
 menu:
   main:
     weight: 3
@@ -29,54 +36,21 @@ hero:
     background_gradient: true
 ---
 
-# Moderne Softwareentwicklung
+## Vorteile von Interim Java Developern
+Unsere Java-Experten unterstützen Sie flexibel, effizient und rechtssicher – sei es bei der Weiterentwicklung Ihrer Anwendungen, der Umsetzung neuer Projekte oder der temporären Verstärkung Ihres Entwicklerteams.
 
-Die Entwicklung von Anwendungen erfolgt typischerweise in mehreren Phasen, die eine strukturierte und systematische Vorgehensweise sicherstellen. Wir bieten Unterstützung und Beratung in jedem Schritt der Softwareentwicklung:
-    
-    Planung und Anforderungsanalyse:
-        Anforderungserhebung: Verstehen der Bedürfnisse und Erwartungen der Stakeholder.
-        Machbarkeitsstudie: Analyse der technischen, betrieblichen und wirtschaftlichen Realisierbarkeit des Projekts.
-        Projektplanung: Festlegung des Umfangs, der Ziele, Ressourcen und des Zeitrahmens.
+#### <i class="fas fa-check mr-1 primary-color"></i> Zahlung erst nach erfolgreicher Leistung
+Sie zahlen nur, wenn die vereinbarte Leistung erfolgreich erbracht wurde – transparent, fair und ohne Vorauszahlung.
+#### <i class="fas fa-check mr-1 primary-color"></i> Schnelle Umsetzung Ihrer Java-Projekte
+Unsere Interim Java Developer bringen tiefgehendes Know-how in modernen Java-Technologien (Spring Boot, Jakarta EE, Microservices) mit und helfen Ihnen dabei, Projekte termingerecht und qualitativ hochwertig umzusetzen.
+#### <i class="fas fa-check mr-1 primary-color"></i> Punktuelle Verstärkung Ihres Teams
+Ob für die Entwicklung neuer Features, Bugfixing oder Refactoring bestehender Anwendungen – unsere freiberuflichen Java-Profis integrieren sich nahtlos in Ihr Team und liefern produktive Unterstützung ab dem ersten Tag.
+#### <i class="fas fa-check mr-1 primary-color"></i> Rechtssichere Zusammenarbeit und geprüfte Qualität
+Unsere Vertragsmodelle entsprechen den aktuellen rechtlichen Vorgaben im IT-Contracting. Unsere Entwickler arbeiten zuverlässig, dokumentieren sauber und legen Wert auf Clean Code, Testbarkeit und langfristige Wartbarkeit.
 
-    Design:
-        Systemdesign: Entwurf der Gesamtarchitektur, einschließlich Hardware- und Softwareanforderungen.
-        Softwaredesign: Erstellung detaillierter Designdokumente, die die Funktionalität, Schnittstellen und Komponenten der Anwendung spezifizieren.
-            High-Level Design (HLD): Beschreibung der Systemarchitektur und des Datenflusses.
-            Low-Level Design (LLD): Detaillierte Spezifikation einzelner Komponenten, Module und Schnittstellen.
+{{< framework/section-grid-java-de >}}
 
-    Implementierung (Codierung):
-        Entwicklung: Programmierung gemäß den Designvorgaben.
-        Komponententest (Unit Testing): Test einzelner Module oder Komponenten zur Sicherstellung ihrer Funktionalität.
+#### <a href="https://calendly.com/customer-ci-cloud/cirro-cloud-consulting">Vereinbaren Sie ganz einfach </a> ein unverbindliches Beratungsgespräch – zu einem Zeitpunkt, der für Sie am besten passt!
+Sichern Sie sich jetzt die Unterstützung erfahrener Java-Contractors – schnell, flexibel und rechtssicher.
 
-    Testphase:
-        Integrationstests: Zusammenführung und gemeinsames Testen einzelner Module.
-        Systemtests: Test des Gesamtsystems auf Fehler und Einhaltung der Anforderungen.
-        Abnahmetests: Verifizierung, dass das System den geschäftlichen Anforderungen entspricht und bereit für die Einführung ist.
-            User Acceptance Testing (UAT): Durchführung von Tests durch Endnutzer zur Überprüfung von Funktionalität und Benutzerfreundlichkeit.
-
-    Bereitstellung (Deployment):
-        Release-Management: Planung und Steuerung der Freigabe in die Produktionsumgebung.
-        Deployment: Installation und Konfiguration der Anwendung in der Live-Umgebung.
-
-    Wartung:
-        Überwachung: Kontinuierliches Monitoring der Anwendung in Bezug auf Leistung, Nutzung und Probleme.
-        Fehlerbehebungen: Identifikation und Behebung von Fehlern, die in der Testphase nicht entdeckt wurden.
-        Updates und Erweiterungen: Hinzufügen neuer Funktionen oder Anpassungen basierend auf Nutzerfeedback und geänderten Anforderungen.
-
-## Iterative und agile Vorgehensmodelle
-
-In der modernen Softwareentwicklung kommen häufig iterative und agile Methoden zum Einsatz, die mehr Flexibilität und kontinuierliche Verbesserung ermöglichen:
-
-    Agile Entwicklung: Iterative Fortschritte in kleinen, überschaubaren Abschnitten (Sprints). Agile Methoden fördern anpassungsfähige Planung, frühe Auslieferung und stetige Verbesserung.
-    Scrum: Rahmenwerk innerhalb von Agile, das mit festen Iterationen (Sprints) arbeitet – in der Regel 2–4 Wochen – mit klar definierten Rollen wie Scrum Master und Product Owner.
-    Kanban: Eine weitere agile Methode, die auf kontinuierliche Auslieferung ohne Überlastung des Teams abzielt. Aufgaben werden auf einem Kanban-Board visualisiert, um Fortschritte und Arbeitsabläufe zu verfolgen.
-
-## DevOps-Integration
-
-DevOps-Praktiken verbinden Entwicklung und Betrieb, um die Zusammenarbeit und Effizienz im Entwicklungszyklus zu verbessern. Im Fokus stehen:
-
-    Continuous Integration (CI): Regelmäßiges Integrieren von Code-Änderungen in ein zentrales Repository mit automatisierten Builds und Tests.
-    Continuous Delivery (CD): Automatische Bereitstellung von getesteten Code-Änderungen in Staging- oder Produktionsumgebungen.
-    Infrastructure as Code (IaC): Verwaltung und Bereitstellung der Infrastruktur durch maschinenlesbare Konfigurationsdateien – für mehr Konsistenz und Automatisierung.
-
-Durch die Anwendung dieser Entwicklungsphasen sowie den Einsatz iterativer und DevOps-Methoden wird die Softwareentwicklung effizienter, zuverlässiger und besser auf die Bedürfnisse der Nutzer abgestimmt.
+{{< framework/team-de >}}
