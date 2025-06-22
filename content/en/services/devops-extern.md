@@ -48,9 +48,9 @@ Our freelance DevOps contractors complement your team in a targeted and flexible
 #### <i class="fas fa-check mr-1 primary-color"></i> Legally Compliant Collaboration and Quality
 We offer proven IT contracting models that prioritize legal security. At the same time, our consultants drive sustainable improvements in areas such as monitoring, automation, and operations.
 
+{{< framework/team-en >}}
+
 {{< framework/section-grid-en >}}
 
 #### <a href="https://calendly.com/customer-ci-cloud/cirro-cloud-consulting">Easily schedule</a> a free initial consultation – at a time that works best for you!
 Secure the support of experienced DevOps contractors – fast, flexible, and legally compliant.
-
-{{< framework/team-en >}}

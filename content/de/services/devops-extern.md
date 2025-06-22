@@ -48,9 +48,9 @@ Unsere freiberuflichen DevOps-Contractors ergänzen Ihr Team gezielt und punktue
 #### <i class="fas fa-check mr-1 primary-color"></i> Rechtssichere Zusammenarbeit und Qualität
 Wir bieten geprüfte Modelle für das IT-Contracting, bei denen rechtliche Sicherheit im Vordergrund steht. Gleichzeitig sorgen unsere Consultants für nachhaltige Verbesserung in Bereichen wie Monitoring, Automatisierung und Betrieb.
 
+{{< framework/team-de >}}
+
 {{< framework/section-grid-de >}}
 
 #### <a href="https://calendly.com/customer-ci-cloud/cirro-cloud-consulting">Vereinbaren Sie ganz einfach </a> ein unverbindliches Beratungsgespräch – zu einem Zeitpunkt, der für Sie am besten passt!
 Sichern Sie sich jetzt die Unterstützung erfahrener DevOps-Contractors – schnell, flexibel und rechtssicher.
-
-{{< framework/team-de >}}

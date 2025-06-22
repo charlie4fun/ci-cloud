@@ -48,9 +48,9 @@ Ob für die Entwicklung neuer Features, Bugfixing oder Refactoring bestehender A
 #### <i class="fas fa-check mr-1 primary-color"></i> Rechtssichere Zusammenarbeit und geprüfte Qualität
 Unsere Vertragsmodelle entsprechen den aktuellen rechtlichen Vorgaben im IT-Contracting. Unsere Entwickler arbeiten zuverlässig, dokumentieren sauber und legen Wert auf Clean Code, Testbarkeit und langfristige Wartbarkeit.
 
+{{< framework/team-de >}}
+
 {{< framework/section-grid-java-de >}}
 
 #### <a href="https://calendly.com/customer-ci-cloud/cirro-cloud-consulting">Vereinbaren Sie ganz einfach </a> ein unverbindliches Beratungsgespräch – zu einem Zeitpunkt, der für Sie am besten passt!
 Sichern Sie sich jetzt die Unterstützung erfahrener Java-Contractors – schnell, flexibel und rechtssicher.
-
-{{< framework/team-de >}}
