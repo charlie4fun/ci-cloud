@@ -1,6 +1,6 @@
 ---
-title: "Software Engineering"
-description: "Entwicklung komplexer Webanwendungen und Systemsoftware."
+title: "Interim Java Entwickler"
+description: "Entwicklung komplexer Webanwendungen und Systemsoftware mit erfahrenen Java-Experten."
 date: 2025-06-13
 weight: 3
 
@@ -28,8 +28,8 @@ image: ""
 hero:
   height: 500px
   headings:
-    heading: "Software Engineering"
-    sub_heading: "Entwicklung komplexer Webanwendungen und Systemsoftware."
+    heading: "Java Contractors für komplexe Systeme"
+    sub_heading: "Erfahrene Java-Freelancer zur Verstärkung Ihres Teams – schnell, flexibel, rechtssicher."
   background:
     background_image: "images/photos/services/software-engineering-large.webp"
     background_image_blend_mode: "overlay"
