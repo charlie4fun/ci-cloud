@@ -1,5 +1,5 @@
 ---
-title: "Interim Java Entwickler"
+title: "Java Contractors für komplexe Systeme"
 description: "Entwicklung komplexer Webanwendungen und Systemsoftware mit erfahrenen Java-Experten."
 date: 2025-06-13
 weight: 3
@@ -26,9 +26,9 @@ thumbnail: "images/photos/services/software-engineering-large.webp"
 image: ""
 
 hero:
-  height: 500px
+  height: 600px
   headings:
-    heading: "Java Contractors für komplexe Systeme"
+    heading: "Interim Java Entwickler"
     sub_heading: "Erfahrene Java-Freelancer zur Verstärkung Ihres Teams – schnell, flexibel, rechtssicher."
   background:
     background_image: "images/photos/services/software-engineering-large.webp"
@@ -36,7 +36,7 @@ hero:
     background_gradient: true
 ---
 
-## Vorteile von Interim Java Developern
+## Vorteile durch Interim Java Developer
 Unsere Java-Experten unterstützen Sie flexibel, effizient und rechtssicher – sei es bei der Weiterentwicklung Ihrer Anwendungen, der Umsetzung neuer Projekte oder der temporären Verstärkung Ihres Entwicklerteams.
 
 #### <i class="fas fa-check mr-1 primary-color"></i> Zahlung erst nach erfolgreicher Leistung

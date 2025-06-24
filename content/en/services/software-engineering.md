@@ -1,5 +1,5 @@
 ---
-title: "Interim Java Developer"
+title: "Java Contractors for Complex Systems"
 description: "Development of complex web applications and system software with experienced Java experts."
 date: 2025-06-13
 weight: 3
@@ -26,9 +26,9 @@ thumbnail: "images/photos/services/software-engineering-large.webp"
 image: ""
 
 hero:
-  height: 500px
+  height: 600px
   headings:
-    heading: "Java Contractors for Complex Systems"
+    heading: "Interim Java Developer"
     sub_heading: "Experienced Java freelancers to strengthen your team – fast, flexible, and legally secure."
   background:
     background_image: "images/photos/services/software-engineering-large.webp"
