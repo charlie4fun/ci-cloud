@@ -7,7 +7,7 @@ thumbnail: 'images/team/maria-pronozenko.jpg'
 image: 'images/team/maria-pronozenko.jpg'
 jobtitle: 'Seniorberater'
 links:
-  - url: 'https://www.linkedin.com'
+  - url: 'https://www.linkedin.com/in/maria-pronozenko-8b1b98353/'
     label: LinkedIn
     icon: "fab fa-linkedin"
   - url: 'mailto:customer@ci-cloud.de'
