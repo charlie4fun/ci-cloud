@@ -19,7 +19,7 @@ hero:
   fullscreen_mobile: true
   fullscreen_desktop: false
   headings:
-    heading: Beratung im IT.
+    heading: Beratung im IT-Bereich.
     sub_heading: ""
     text: ''
     text_color: "#FFFFFF"

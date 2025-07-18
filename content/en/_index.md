@@ -19,7 +19,7 @@ hero:
   fullscreen_mobile: true
   fullscreen_desktop: false
   headings:
-    heading: Consulting in IT.
+    heading: We do IT consulting.
     sub_heading: ""
     text: ''
     text_color: "#FFFFFF"
