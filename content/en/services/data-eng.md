@@ -1,10 +1,17 @@
 ---
 title: "Data Engineering"
-description: "Data is the cornerstone of business success, enabling informed decisions, innovation, and adaptability."
+description: "Data consulting for greater agility & efficiency – with experienced contractors."
 date: 2025-06-08
 weight: 2
 
 header_transparent: true
+
+meta:
+  title: "Data Engineering Consulting and Support Services"
+  description: "Data engineering experts help you build, optimize, and scale your data infrastructure."
+  og_title: "Support from Data Engineering Experts. Optimize Your Data Infrastructure"
+  og_image: "images/photos/services/dataeng-large.webp"
+  og_description: "Interim Data Engineers for your project: Data engineering consulting for reliable, scalable data pipelines – delivered by experienced freelancers."
 
 menu:
   main:
@@ -21,28 +28,40 @@ hero:
   height: 500px
   headings:
     heading: "Data Engineering"
-    sub_heading: "Data is the cornerstone of business success, enabling informed decisions, innovation, and adaptability."
+    sub_heading: "Scale fast with experienced Data-contractors."
   background:
     background_image: "images/photos/services/dataeng-large.webp"
     background_image_blend_mode: "overlay"
     background_gradient: true
 ---
 
-## Vorteile von Interim Data Engineering
-Unsere Data Engineering-Experten bieten flexible, effiziente und rechtssichere Unterstützung für den Aufbau, die Optimierung und Skalierung Ihrer Dateninfrastruktur – genau dann, wenn Sie sie brauchen.
+## Our Offer (all steps below are free of charge):
+1. Send us a description of the specialist you're looking for: abc@ci-cloud.de.
+2. Within 1–2 business days, we’ll send you 2–3 CVs of suitable candidates.
+3. If you're interested in one or more of the candidates, we’ll arrange an interview.
+4. If you decide to move forward after the interview, we’ll sign a service agreement — and the specialist can get started right away.
 
-#### <i class="fas fa-check mr-1 primary-color"></i> Zahlung erst nach erfolgreicher Leistung
-Sie zahlen nur, wenn die vereinbarte Leistung erbracht wurde – transparent, fair und ohne Vorauszahlung.
-#### <i class="fas fa-check mr-1 primary-color"></i> Dateninfrastruktur modernisieren
-Unsere Experten helfen Ihnen beim Design robuster Datenarchitekturen, der Automatisierung von ETL-Prozessen sowie der Implementierung skalierbarer Data Pipelines – für zuverlässige Datenverarbeitung on-premise oder in der Cloud (AWS, GCP, Azure).
-#### <i class="fas fa-check mr-1 primary-color"></i> Verstärkung für Ihr Data-Team
-Ob Data Lake, Realtime Streaming, Datenmodellierung oder Warehouse-Optimierung: Unsere freiberuflichen Data Engineers unterstützen punktuell oder projektbasiert – exakt abgestimmt auf Ihre Anforderungen.
-#### <i class="fas fa-check mr-1 primary-color"></i> Rechtssichere Zusammenarbeit und Qualität
-Unsere Vertragsmodelle im IT-Contracting bieten rechtliche Sicherheit. Gleichzeitig sorgen unsere Consultants für nachhaltige Verbesserung in Bereichen wie Datenqualität, Monitoring, Governance und Performance-Tuning.
+## Payment terms:
+1. You don’t pay anything for the candidate search or interviews — even if no one is hired.
+2. The first payment is due after the first week of work, based on the number of hours the candidate has actually worked.
+3. You can cancel the service agreement at any time within one week.
 
-{{< framework/team-de >}}
+## Ask a Question:
+{{< framework/section-contact >}}
 
-{{< framework/section-grid-data-de >}}
+## Benefits for:
+#### <i class="fas fa-check mr-1 primary-color"></i> Product Owner / Project Manager / Team Lead
+Quickly fill capability or capacity gaps in your team with experienced freelance Data Engineers.
+#### <i class="fas fa-check mr-1 primary-color"></i> HR / Tech Recruiter
+We take over the sourcing process when internal recruiting resources are stretched. Decrease time-to-hire.
+#### <i class="fas fa-check mr-1 primary-color"></i> Head of Data
+Easily scale your team up or down without long-term commitments.
+#### <i class="fas fa-check mr-1 primary-color"></i>CTO / CIO
+A cost-efficient (especially in the long term), legally compliant solution with verified quality.
 
-#### <a href="https://calendly.com/customer-ci-cloud/cirro-cloud-consulting">Vereinbaren Sie ganz einfach </a> ein unverbindliches Beratungsgespräch – zu einem Zeitpunkt, der für Sie am besten passt!
-Sichern Sie sich jetzt die Unterstützung erfahrener Data-Contractors – schnell, flexibel und rechtssicher.
+{{< framework/team-en >}}
+
+{{< framework/section-grid-data-en >}}
+
+#### <a href="https://calendly.com/customer-ci-cloud/cirro-cloud-consulting">Easily schedule</a> a free initial consultation – at a time that works best for you!
+Secure the support of experienced Data contractors – fast, flexible, and legally compliant.

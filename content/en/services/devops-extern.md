@@ -1,6 +1,6 @@
 ---
 title: "DevOps Consulting and Contracting"
-description: "DevOps consulting for greater agility & efficiency – with experienced freelance contractors."
+description: "DevOps consulting for greater agility & efficiency – with experienced contractors."
 date: 2025-04-01
 weight: 1
 
@@ -36,17 +36,29 @@ hero:
     background_gradient: true
 ---
 
-## Benefits of Interim DevOps
-Our DevOps experts provide flexible, efficient, and legally compliant support to optimize your IT infrastructure or strengthen your development team – exactly when you need it.
+## Our Offer (all steps below are free of charge):
+1. Send us a description of the specialist you're looking for: customer@ci-cloud.de.
+2. Within 1–2 business days, we’ll send you 2–3 CVs of suitable candidates.
+3. If you're interested in one or more of the candidates, we’ll arrange an interview.
+4. If you decide to move forward after the interview, we’ll sign a service agreement — and the specialist can get started right away.
 
-#### <i class="fas fa-check mr-1 primary-color"></i> Payment Only After Successful Delivery
-You only pay once the agreed service has been delivered – transparent, fair, and with no upfront costs.
-#### <i class="fas fa-check mr-1 primary-color"></i> Optimize Your Infrastructure Efficiently
-Enhance your infrastructure and software development with modern DevOps practices – for greater efficiency, automation, and scalability, even in cloud environments.
-#### <i class="fas fa-check mr-1 primary-color"></i> Reinforcement for Your Team
-Our freelance DevOps contractors complement your team in a targeted and flexible manner – whether for agile development, implementation of CI/CD pipelines, containerization with Docker, or optimizing your cloud infrastructure in AWS, Azure, or hybrid environments.
-#### <i class="fas fa-check mr-1 primary-color"></i> Legally Compliant Collaboration and Quality
-We offer proven IT contracting models that prioritize legal security. At the same time, our consultants drive sustainable improvements in areas such as monitoring, automation, and operations.
+## Payment terms:
+1. You don’t pay anything for the candidate search or interviews — even if no one is hired.
+2. The first payment is due after the first week of work, based on the number of hours the candidate has actually worked.
+3. You can cancel the service agreement at any time within one week.
+
+## Ask a Question:
+{{< framework/section-contact >}}
+
+## Benefits for:
+#### <i class="fas fa-check mr-1 primary-color"></i> Product Owner / Project Manager / Team Lead
+Quickly fill capability or capacity gaps in your team with experienced DevOps Engineers.
+#### <i class="fas fa-check mr-1 primary-color"></i> HR / Tech Recruiter
+We take over the sourcing process when internal recruiting resources are stretched. Decrease time-to-hire.
+#### <i class="fas fa-check mr-1 primary-color"></i> Head of Infrastructure / DevOps
+Easily scale your team up or down without long-term commitments.
+#### <i class="fas fa-check mr-1 primary-color"></i>CTO / CIO
+A cost-efficient (especially in the long term), legally compliant solution with verified quality.
 
 {{< framework/team-en >}}
 

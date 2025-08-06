@@ -36,6 +36,20 @@ hero:
     background_gradient: true
 ---
 
+## Unser Angebot – unverbindlich & kostenlos:
+1. Schicken Sie uns eine kurze Beschreibung des gewünschten Profils an customer@ci-cloud.de.
+2. Innerhalb von 1–2 Werktagen erhalten Sie von uns 2–3 qualifizierte Kandidatenprofile (CVs).
+3. Falls ein Profil für Sie interessant ist, organisieren wir ein unverbindliches Interview.
+4. Wenn Sie sich nach dem Gespräch für einen Kandidaten entscheiden, schließen wir einen Dienstleistungsvertrag, und der Experte kann kurzfristig starten.
+
+## Zahlungsbedingungen:
+1. Keine Kosten für die Kandidatensuche oder Interviews – auch dann nicht, wenn es zu keiner Zusammenarbeit kommt.
+2. Die erste Rechnung erfolgt nach der ersten Arbeitswoche und basiert auf den tatsächlich geleisteten Stunden.
+3. Sie können den Dienstleistungsvertrag jederzeit innerhalb einer Woche kündigen.
+
+## Fragen stellen:
+{{< framework/section-contact >}}
+
 ## Vorteile durch Interim Java Developer
 Unsere Java-Experten unterstützen Sie flexibel, effizient und rechtssicher – sei es bei der Weiterentwicklung Ihrer Anwendungen, der Umsetzung neuer Projekte oder der temporären Verstärkung Ihres Entwicklerteams.
 
