@@ -2,13 +2,13 @@
 title: "Data Engineering"
 description: "Data is the cornerstone of business success, enabling informed decisions, innovation, and adaptability."
 date: 2025-06-08
-weight: 9
+weight: 2
 
 header_transparent: true
 
 menu:
   main:
-    weight: 9
+    weight: 2
     parent: "services"
     params:
       icon: "images/icons/icons8-data-100.png"
@@ -28,19 +28,21 @@ hero:
     background_gradient: true
 ---
 
-# Data Processing
-In today's digital age, data fuels business success by providing actionable insights, guiding strategic decisions, and driving innovation. From understanding customer needs to optimizing operational efficiency, data empowers businesses to stay ahead of the curve and adapt to ever-changing market dynamics. Unlock the full potential of your business by harnessing the power of data to fuel growth, drive profitability, and achieve lasting success.
+## Vorteile von Interim Data Engineering
+Unsere Data Engineering-Experten bieten flexible, effiziente und rechtssichere Unterstützung für den Aufbau, die Optimierung und Skalierung Ihrer Dateninfrastruktur – genau dann, wenn Sie sie brauchen.
 
-## The six stages of data processing
+#### <i class="fas fa-check mr-1 primary-color"></i> Zahlung erst nach erfolgreicher Leistung
+Sie zahlen nur, wenn die vereinbarte Leistung erbracht wurde – transparent, fair und ohne Vorauszahlung.
+#### <i class="fas fa-check mr-1 primary-color"></i> Dateninfrastruktur modernisieren
+Unsere Experten helfen Ihnen beim Design robuster Datenarchitekturen, der Automatisierung von ETL-Prozessen sowie der Implementierung skalierbarer Data Pipelines – für zuverlässige Datenverarbeitung on-premise oder in der Cloud (AWS, GCP, Azure).
+#### <i class="fas fa-check mr-1 primary-color"></i> Verstärkung für Ihr Data-Team
+Ob Data Lake, Realtime Streaming, Datenmodellierung oder Warehouse-Optimierung: Unsere freiberuflichen Data Engineers unterstützen punktuell oder projektbasiert – exakt abgestimmt auf Ihre Anforderungen.
+#### <i class="fas fa-check mr-1 primary-color"></i> Rechtssichere Zusammenarbeit und Qualität
+Unsere Vertragsmodelle im IT-Contracting bieten rechtliche Sicherheit. Gleichzeitig sorgen unsere Consultants für nachhaltige Verbesserung in Bereichen wie Datenqualität, Monitoring, Governance und Performance-Tuning.
 
-1. Data Collection: Gathering raw data from various sources such as sensors, databases, or manual inputs.
-2. Data Preparation: Cleaning, sorting, and organizing the collected data to make it suitable for analysis.
-3. Data Input: Entering the prepared data into the system for processing.
-4. Data Processing: Analyzing, transforming, and deriving insights from the input data.
-5. Data Output: Presenting the processed data in a meaningful format such as reports, visualizations, or dashboards.
-6. Data Storage: Archiving the processed data for future reference or analysis.
+{{< framework/team-de >}}
 
-## Data Platforms
-When your business experiences rapid growth, your data volumes increase significantly, and addressing customer requests becomes more challenging. Hiring new specialists is only part of the solution to managing these growth challenges. The other essential part is implementing tools that enable new employees to be productive. This is where a data platform comes into play.
+{{< framework/section-grid-data-de >}}
 
-A data platform provides a centralized system for managing and analyzing large volumes of data, ensuring that information is easily accessible and actionable. It enhances efficiency by automating data processes and integrating various data sources, allowing your team to focus on strategic tasks rather than manual data management. Additionally, a robust data platform improves decision-making by providing real-time insights and analytics, helping your business stay agile and responsive to customer needs. By leveraging a data platform, you can effectively support your growing team and maintain high productivity levels, ultimately driving sustained business success.
+#### <a href="https://calendly.com/customer-ci-cloud/cirro-cloud-consulting">Vereinbaren Sie ganz einfach </a> ein unverbindliches Beratungsgespräch – zu einem Zeitpunkt, der für Sie am besten passt!
+Sichern Sie sich jetzt die Unterstützung erfahrener Data-Contractors – schnell, flexibel und rechtssicher.

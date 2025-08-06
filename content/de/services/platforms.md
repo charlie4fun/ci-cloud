@@ -2,13 +2,13 @@
 title: "DevOps Platforms"
 description: "Automation, standardization and predictable result."
 date: 2025-06-08
-weight: 7
+weight: 5
 
 header_transparent: true
 
 menu:
   main:
-    weight: 7
+    weight: 5
     parent: "services"
     params:
       icon: "images/icons/icons8-devops-100.png"

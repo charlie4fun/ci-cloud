@@ -2,7 +2,7 @@
 title: "Data Engineering"
 description: "Daten sind das Fundament des Geschäftserfolgs, da sie fundierte Entscheidungen, Innovationen und Anpassungsfähigkeit ermöglichen."
 date: 2025-07-13
-weight: 4
+weight: 2
 
 header_transparent: true
 
@@ -15,8 +15,8 @@ meta:
 
 menu:
   main:
-    name: "Interim DevOps"
-    weight: 9
+    name: "Data Engineering"
+    weight: 2
     parent: "services"
     params:
       icon: "images/icons/icons8-data-100.png"

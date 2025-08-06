@@ -2,7 +2,7 @@
 title: "IT Expert Placement for Companies"
 description: "We specialize in placing IT freelancers and offer you fast access to highly qualified professionals."
 date: 2025-04-01
-weight: 2
+weight: 7
 
 header_transparent: true
 
@@ -16,7 +16,7 @@ meta:
 menu:
   main:
     name: "IT Experts for Companies"
-    weight: 2
+    weight: 7
     parent: "services"
     params:
       icon: "images/icons/icons8-user-engagement-male-100.png"
