@@ -50,17 +50,15 @@ hero:
 ## Fragen stellen:
 {{< framework/section-contact >}}
 
-## Vorteile von Interim Data Engineering
-Unsere Data Engineering-Experten bieten flexible, effiziente und rechtssichere Unterstützung für den Aufbau, die Optimierung und Skalierung Ihrer Dateninfrastruktur – genau dann, wenn Sie sie brauchen.
-
-#### <i class="fas fa-check mr-1 primary-color"></i> Zahlung erst nach erfolgreicher Leistung
-Sie zahlen nur, wenn die vereinbarte Leistung erbracht wurde – transparent, fair und ohne Vorauszahlung.
-#### <i class="fas fa-check mr-1 primary-color"></i> Dateninfrastruktur modernisieren
-Unsere Experten helfen Ihnen beim Design robuster Datenarchitekturen, der Automatisierung von ETL-Prozessen sowie der Implementierung skalierbarer Data Pipelines – für zuverlässige Datenverarbeitung on-premise oder in der Cloud (AWS, GCP, Azure).
-#### <i class="fas fa-check mr-1 primary-color"></i> Verstärkung für Ihr Data-Team
-Ob Data Lake, Realtime Streaming, Datenmodellierung oder Warehouse-Optimierung: Unsere freiberuflichen Data Engineers unterstützen punktuell oder projektbasiert – exakt abgestimmt auf Ihre Anforderungen.
-#### <i class="fas fa-check mr-1 primary-color"></i> Rechtssichere Zusammenarbeit und Qualität
-Unsere Vertragsmodelle im IT-Contracting bieten rechtliche Sicherheit. Gleichzeitig sorgen unsere Consultants für nachhaltige Verbesserung in Bereichen wie Datenqualität, Monitoring, Governance und Performance-Tuning.
+## Vorteile für:
+#### <i class="fas fa-check mr-1 primary-color"></i> Product Owner / Projektmanager / Teamleiter
+Füllen Sie Kompetenz- oder Kapazitätslücken in Ihrem Team schnell mit erfahrenen Data Engineers.
+#### <i class="fas fa-check mr-1 primary-color"></i> HR / Tech Recruiter
+Wir übernehmen den Sourcing-Prozess, wenn interne Recruiting-Ressourcen ausgelastet sind. Reduzieren Sie die Time-to-Hire.
+#### <i class="fas fa-check mr-1 primary-color"></i> Leiter der Data-Abteilung
+Skalieren Sie Ihr Team flexibel nach oben oder unten – ohne langfristige Verpflichtungen.
+#### <i class="fas fa-check mr-1 primary-color"></i> CTO / CIO
+Eine kosteneffiziente (besonders langfristig), rechtlich konforme Lösung mit geprüfter Qualität.
 
 {{< framework/team-de >}}
 

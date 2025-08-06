@@ -50,17 +50,15 @@ hero:
 ## Fragen stellen:
 {{< framework/section-contact >}}
 
-## Vorteile von Interim DevOps
-Unsere DevOps-Experten bieten flexible, effiziente und rechtssichere Unterstützung für die Optimierung Ihrer IT-Infrastruktur oder die Verstärkung Ihres Entwicklungsteams – genau dann, wenn Sie sie es brauchen.
-
-#### <i class="fas fa-check mr-1 primary-color"></i> Zahlung erst nach erfolgreicher Leistung
-Sie zahlen nur, wenn die vereinbarte Leistung erbracht wurde – transparent, fair und ohne Vorauszahlung.
-#### <i class="fas fa-check mr-1 primary-color"></i> Infrastruktur effizient optimieren
-Optimieren Sie Ihre Infrastruktur und Ihre Softwareentwicklung mit modernen DevOps Practices – für mehr Effizienz, Automatisierung und Skalierbarkeit, auch in Cloud-Umgebungen. 
-#### <i class="fas fa-check mr-1 primary-color"></i> Verstärkung für Ihr Team
-Unsere freiberuflichen DevOps-Contractors ergänzen Ihr Team gezielt und punktuell, sei es für agile Entwicklung, die Implementierung von CI/CD-Pipelines, die Containerisierung mit Docker oder die Optimierung Ihrer Cloud-Infrastruktur in AWS, Azure oder hybriden Umgebungen.
-#### <i class="fas fa-check mr-1 primary-color"></i> Rechtssichere Zusammenarbeit und Qualität
-Wir bieten geprüfte Modelle für das IT-Contracting, bei denen rechtliche Sicherheit im Vordergrund steht. Gleichzeitig sorgen unsere Consultants für nachhaltige Verbesserung in Bereichen wie Monitoring, Automatisierung und Betrieb.
+## Vorteile für:
+#### <i class="fas fa-check mr-1 primary-color"></i> Product Owner / Projektmanager / Teamleiter
+Füllen Sie Kompetenz- oder Kapazitätslücken in Ihrem Team schnell mit erfahrenen DevOps Engineers.
+#### <i class="fas fa-check mr-1 primary-color"></i> HR / Tech Recruiter
+Wir übernehmen den Sourcing-Prozess, wenn interne Recruiting-Ressourcen ausgelastet sind. Reduzieren Sie die Time-to-Hire.
+#### <i class="fas fa-check mr-1 primary-color"></i> Leiter Infrastruktur / DevOps-Abteilung
+Skalieren Sie Ihr Team flexibel nach oben oder unten – ohne langfristige Verpflichtungen.
+#### <i class="fas fa-check mr-1 primary-color"></i> CTO / CIO
+Eine kosteneffiziente (besonders langfristig), rechtlich konforme Lösung mit geprüfter Qualität.
 
 {{< framework/team-de >}}
 

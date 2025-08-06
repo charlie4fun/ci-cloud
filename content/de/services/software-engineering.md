@@ -50,17 +50,15 @@ hero:
 ## Fragen stellen:
 {{< framework/section-contact >}}
 
-## Vorteile durch Interim Java Developer
-Unsere Java-Experten unterstützen Sie flexibel, effizient und rechtssicher – sei es bei der Weiterentwicklung Ihrer Anwendungen, der Umsetzung neuer Projekte oder der temporären Verstärkung Ihres Entwicklerteams.
-
-#### <i class="fas fa-check mr-1 primary-color"></i> Zahlung erst nach erfolgreicher Leistung
-Sie zahlen nur, wenn die vereinbarte Leistung erfolgreich erbracht wurde – transparent, fair und ohne Vorauszahlung.
-#### <i class="fas fa-check mr-1 primary-color"></i> Schnelle Umsetzung Ihrer Java-Projekte
-Unsere Interim Java Developer bringen tiefgehendes Know-how in modernen Java-Technologien (Spring Boot, Jakarta EE, Microservices) mit und helfen Ihnen dabei, Projekte termingerecht und qualitativ hochwertig umzusetzen.
-#### <i class="fas fa-check mr-1 primary-color"></i> Punktuelle Verstärkung Ihres Teams
-Ob für die Entwicklung neuer Features, Bugfixing oder Refactoring bestehender Anwendungen – unsere freiberuflichen Java-Profis integrieren sich nahtlos in Ihr Team und liefern produktive Unterstützung ab dem ersten Tag.
-#### <i class="fas fa-check mr-1 primary-color"></i> Rechtssichere Zusammenarbeit und geprüfte Qualität
-Unsere Vertragsmodelle entsprechen den aktuellen rechtlichen Vorgaben im IT-Contracting. Unsere Entwickler arbeiten zuverlässig, dokumentieren sauber und legen Wert auf Clean Code, Testbarkeit und langfristige Wartbarkeit.
+## Vorteile für:
+#### <i class="fas fa-check mr-1 primary-color"></i> Product Owner / Projektmanager / Teamleiter
+Füllen Sie Kompetenz- oder Kapazitätslücken in Ihrem Team schnell mit erfahrenen Entwicklern.
+#### <i class="fas fa-check mr-1 primary-color"></i> HR / Tech Recruiter
+Wir übernehmen den Sourcing-Prozess, wenn interne Recruiting-Ressourcen ausgelastet sind. Reduzieren Sie die Time-to-Hire.
+#### <i class="fas fa-check mr-1 primary-color"></i> Leiter der Entwicklungsabteilung
+Skalieren Sie Ihr Team flexibel nach oben oder unten – ohne langfristige Verpflichtungen.
+#### <i class="fas fa-check mr-1 primary-color"></i> CTO / CIO
+Eine kosteneffiziente (besonders langfristig), rechtlich konforme Lösung mit geprüfter Qualität. {{< framework/team-de >}}
 
 {{< framework/team-de >}}
 

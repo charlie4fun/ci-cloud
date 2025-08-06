@@ -51,7 +51,7 @@ hero:
 
 ## Benefits for:
 #### <i class="fas fa-check mr-1 primary-color"></i> Product Owner / Project Manager / Team Lead
-Quickly fill capability or capacity gaps in your team with experienced freelance Data Engineers.
+Quickly fill capability or capacity gaps in your team with experienced Data Engineers.
 #### <i class="fas fa-check mr-1 primary-color"></i> HR / Tech Recruiter
 We take over the sourcing process when internal recruiting resources are stretched. Decrease time-to-hire.
 #### <i class="fas fa-check mr-1 primary-color"></i> Head of Data
