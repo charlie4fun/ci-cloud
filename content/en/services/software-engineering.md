@@ -57,7 +57,7 @@ Quickly fill capability or capacity gaps in your team with experienced Software 
 We take over the sourcing process when internal recruiting resources are stretched. Decrease time-to-hire.
 #### <i class="fas fa-check mr-1 primary-color"></i> Head of Development
 Easily scale your team up or down without long-term commitments.
-#### <i class="fas fa-check mr-1 primary-color"></i>CTO / CIO
+#### <i class="fas fa-check mr-1 primary-color"></i> CTO / CIO
 A cost-efficient (especially in the long term), legally compliant solution with verified quality.
 
 {{< framework/team-en >}}
