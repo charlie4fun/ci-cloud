@@ -53,12 +53,12 @@ intro:
   enabled: true
   align: left
   image: "images/photos/content/content-5.webp"
-  heading: "We've helped biggest players to improve their business."
-  description: "Our solutions empower companies to face the challenges of tomorrow."
+  heading: "Book a free consultation at a time that suits you best!"
+  description: "Schedule a non-binding online appointment with Calendly."
   buttons:
     - button:
-      text: "View Our Services"
-      url: "services/"
+      text: "Schedule a call"
+      url: "https://calendly.com/customer-ci-cloud/cirro-cloud-consulting"
       external: false
       fa_icon: false
       outline: true

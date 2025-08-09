@@ -53,12 +53,12 @@ intro:
   enabled: true
   align: left
   image: "images/photos/content/content-5.webp"
-  heading: "Wir haben den größten Akteuren geholfen, ihr Geschäft zu optimieren."
-  description: "Unsere Lösungen befähigen Unternehmen, die Herausforderungen von morgen zu meistern."
+  heading: "Vereinbaren Sie ganz einfach ein unverbindliches Beratungsgespräch – zu einem Zeitpunkt, der für Sie am besten passt!"
+  description: "Vereinbaren Sie einen unverbindlichen Online-Termin mit Calendly."
   buttons:
     - button:
-      text: "Unsere Dienstleistungen ansehen"
-      url: "services/"
+      text: "Online-Termin"
+      url: "https://calendly.com/customer-ci-cloud/cirro-cloud-consulting"
       external: false
       fa_icon: false
       outline: true
