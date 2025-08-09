@@ -1,8 +1,8 @@
 ---
-title: "Interim Software Developer"
+title: "Interim Java Developer"
 description: "Development of complex web applications and system software with experienced Java experts."
-date: 2025-06-13
-weight: 3
+date: 2025-08-01
+weight: 5
 
 header_transparent: true
 
@@ -10,19 +10,19 @@ meta:
   title: "Java Development and Support Services"
   description: "Experienced Java developers to realize your projects or support your team flexibly"
   og_title: "Java Expert Support. Deliver development efficiently"
-  og_image: "images/photos/services/consulting-large.webp"
+  og_image: "images/photos/services/java.webp"
   og_description: "Interim Java developers for you: project-based Java development by experienced freelancers – fast, flexible, and legally compliant."
 
 menu:
   main:
-    weight: 3
+    weight: 5
     parent: "services"
     params:
       icon: "images/icons/icons8-merge-git-100.png"
 
 fa_icon: ""
 icon: "images/icons/icons8-merge-git-100.png"
-thumbnail: "images/photos/services/software-engineering-large.webp"
+thumbnail: "images/photos/services/java.webp"
 image: ""
 
 hero:
@@ -31,7 +31,7 @@ hero:
     heading: "Java Contractors for Complex Systems"
     sub_heading: "Experienced Java contractors to strengthen your team – fast, flexible, and legally secure."
   background:
-    background_image: "images/photos/services/software-engineering-large.webp"
+    background_image: "images/photos/services/java.webp"
     background_image_blend_mode: "overlay"
     background_gradient: true
 ---

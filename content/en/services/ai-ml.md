@@ -2,7 +2,7 @@
 title: "Custom AI/ML Solutions"
 description: "Daily routine, such as: reporting, code reviewing, performance tracking, etc. could be improved through AI/ML."
 date: 2025-06-08
-weight: 6
+weight: 4
 
 header_transparent: true
 

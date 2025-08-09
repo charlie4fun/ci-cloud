@@ -2,7 +2,7 @@
 title: "IT Expertenvermittlung für Unternehmen"
 description: "Wir sind spezialisiert auf die Vermittlung von IT-Freelancern und bieten Ihnen schnellen Zugang zu hochqualifizierten Fachkräften. "
 date: 2025-04-01
-weight: 7
+weight: 9
 
 header_transparent: true
 

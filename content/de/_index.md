@@ -53,11 +53,11 @@ intro:
   enabled: true
   align: left
   image: "images/photos/content/content-5.webp"
-  heading: "Vereinbaren Sie ganz einfach ein unverbindliches Beratungsgespräch – zu einem Zeitpunkt, der für Sie am besten passt!"
+  heading: "Buchen Sie eine kostenlose Beratung!"
   description: "Vereinbaren Sie einen unverbindlichen Online-Termin mit Calendly."
   buttons:
     - button:
-      text: "Online-Termin"
+      text: "Termin buchen"
       url: "https://calendly.com/customer-ci-cloud/cirro-cloud-consulting"
       external: false
       fa_icon: false

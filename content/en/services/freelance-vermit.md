@@ -2,7 +2,7 @@
 title: "IT Expert Placement for Companies"
 description: "We specialize in placing IT freelancers and offer you fast access to highly qualified professionals."
 date: 2025-04-01
-weight: 7
+weight: 9
 
 header_transparent: true
 
