@@ -1,8 +1,8 @@
 ---
-title: "Java Contractors for Complex Systems"
+title: "Interim Python Developer"
 description: "Development of complex web applications and system software with experienced Java experts."
 date: 2025-06-13
-weight: 3
+weight: 6
 
 header_transparent: true
 
@@ -15,7 +15,7 @@ meta:
 
 menu:
   main:
-    weight: 3
+    weight: 6
     parent: "services"
     params:
       icon: "images/icons/icons8-merge-git-100.png"

@@ -9,7 +9,7 @@ header_transparent: true
 menu:
   main:
     name: "Custom AI/ML Solutions"
-    weight: 6
+    weight: 4
     parent: "services"
     params:
       icon: "images/icons/icons8-ai-100.png"

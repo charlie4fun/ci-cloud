@@ -16,7 +16,7 @@ meta:
 menu:
   main:
     name: "IT Experts for Companies"
-    weight: 7
+    weight: 9
     parent: "services"
     params:
       icon: "images/icons/icons8-user-engagement-male-100.png"

@@ -1,5 +1,5 @@
 ---
-title: "Interim Software Developer"
+title: "Software Engineering"
 description: "Development of complex web applications and system software with experienced Java experts."
 date: 2025-06-13
 weight: 3

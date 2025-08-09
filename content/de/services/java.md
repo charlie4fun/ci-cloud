@@ -15,7 +15,7 @@ meta:
 
 menu:
   main:
-    weight: 3
+    weight: 5
     parent: "services"
     params:
       icon: "images/icons/icons8-merge-git-100.png"

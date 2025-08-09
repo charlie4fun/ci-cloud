@@ -1,5 +1,5 @@
 ---
-title: "Interim Software Entwickler"
+title: "Software Entwicklung"
 description: "Entwicklung komplexer Webanwendungen und Systemsoftware mit erfahrenen Java-Experten."
 date: 2025-06-13
 weight: 3
