@@ -10,7 +10,7 @@ meta:
   title: "Java Development and Support Services"
   description: "Experienced Java developers to realize your projects or support your team flexibly"
   og_title: "Java Expert Support. Deliver development efficiently"
-  og_image: "images/photos/services/consulting-large.webp"
+  og_image: "images/photos/services/python.webp"
   og_description: "Interim Java developers for you: project-based Java development by experienced freelancers – fast, flexible, and legally compliant."
 
 menu:
@@ -22,7 +22,7 @@ menu:
 
 fa_icon: ""
 icon: "images/icons/icons8-merge-git-100.png"
-thumbnail: "images/photos/services/software-engineering-large.webp"
+thumbnail: "images/photos/services/python.webp"
 image: ""
 
 hero:
@@ -31,7 +31,7 @@ hero:
     heading: "Interim Java Developer"
     sub_heading: "Experienced Java contractors to strengthen your team – fast, flexible, and legally secure."
   background:
-    background_image: "images/photos/services/software-engineering-large.webp"
+    background_image: "images/photos/services/python.webp"
     background_image_blend_mode: "overlay"
     background_gradient: true
 ---

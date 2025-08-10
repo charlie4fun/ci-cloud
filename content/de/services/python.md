@@ -10,7 +10,7 @@ meta:
   title: "Java-Entwicklungs- und Unterstützungsdienstleistungen"
   description: "Erfahrene Java-Entwickler für die Umsetzung Ihrer Projekte oder als flexible Verstärkung Ihres Teams"
   og_title: "Java-Experten Unterstützung. Entwicklung effizient umsetzen"
-  og_image: "images/photos/services/consulting-large.webp"
+  og_image: "images/photos/services/python.webp"
   og_description: "Interim Java Developer für Sie: Projektbezogene Java-Entwicklung mit erfahrenen Freiberuflern – schnell, flexibel und rechtssicher."
 
 menu:
@@ -22,7 +22,7 @@ menu:
 
 fa_icon: ""
 icon: "images/icons/icons8-merge-git-100.png"
-thumbnail: "images/photos/services/software-engineering-large.webp"
+thumbnail: "images/photos/services/python.webp"
 image: ""
 
 hero:
@@ -31,7 +31,7 @@ hero:
     heading: "Interim Java Entwickler"
     sub_heading: "Erfahrene Java-Freelancer zur Verstärkung Ihres Teams – schnell, flexibel, rechtssicher."
   background:
-    background_image: "images/photos/services/software-engineering-large.webp"
+    background_image: "images/photos/services/python.webp"
     background_image_blend_mode: "overlay"
     background_gradient: true
 ---
