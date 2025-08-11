@@ -1,17 +1,17 @@
 ---
 title: "Interim Python Entwickler"
-description: "Entwicklung komplexer Webanwendungen und Systemsoftware mit erfahrenen Java-Experten."
+description: "Interim Python Developer für Sie: Projektbezogene Python-Entwicklung mit erfahrenen Freiberuflern – schnell, flexibel und rechtssicher."
 date: 2025-06-13
 weight: 6
 
 header_transparent: true
 
 meta: 
-  title: "Java-Entwicklungs- und Unterstützungsdienstleistungen"
-  description: "Erfahrene Java-Entwickler für die Umsetzung Ihrer Projekte oder als flexible Verstärkung Ihres Teams"
-  og_title: "Java-Experten Unterstützung. Entwicklung effizient umsetzen"
+  title: "Python-Entwicklungs- und Unterstützungsdienstleistungen"
+  description: "Erfahrene Python-Entwickler für die Umsetzung Ihrer Projekte oder als flexible Verstärkung Ihres Teams"
+  og_title: "Python-Experten Unterstützung. Entwicklung effizient umsetzen"
   og_image: "images/photos/services/python.webp"
-  og_description: "Interim Java Developer für Sie: Projektbezogene Java-Entwicklung mit erfahrenen Freiberuflern – schnell, flexibel und rechtssicher."
+  og_description: "Entwicklung komplexer Webanwendungen und Systemsoftware mit erfahrenen Python-Experten."
 
 menu:
   main:
@@ -28,8 +28,8 @@ image: ""
 hero:
   height: 600px
   headings:
-    heading: "Interim Java Entwickler"
-    sub_heading: "Erfahrene Java-Freelancer zur Verstärkung Ihres Teams – schnell, flexibel, rechtssicher."
+    heading: "Interim Python Entwickler"
+    sub_heading: "Erfahrene Python-Freelancer zur Verstärkung Ihres Teams."
   background:
     background_image: "images/photos/services/python.webp"
     background_image_blend_mode: "overlay"
@@ -62,7 +62,7 @@ Eine kosteneffiziente (besonders langfristig), rechtlich konforme Lösung mit ge
 
 {{< framework/team-de >}}
 
-{{< framework/section-grid-java-de >}}
+{{< framework/section-grid-python-de >}}
 
 #### <a href="https://calendly.com/customer-ci-cloud/cirro-cloud-consulting">Vereinbaren Sie ganz einfach </a> ein unverbindliches Beratungsgespräch – zu einem Zeitpunkt, der für Sie am besten passt!
-Sichern Sie sich jetzt die Unterstützung erfahrener Java-Contractors – schnell, flexibel und rechtssicher.
+Sichern Sie sich jetzt die Unterstützung erfahrener Python-Contractors – schnell, flexibel und rechtssicher.

@@ -29,7 +29,7 @@ hero:
   height: 600px
   headings:
     heading: "Java Contractors für komplexe Systeme"
-    sub_heading: "Erfahrene Java-Freelancer zur Verstärkung Ihres Teams – schnell, flexibel, rechtssicher."
+    sub_heading: "Erfahrene Java-Freelancer zur Verstärkung Ihres Teams."
   background:
     background_image: "images/photos/services/java.webp"
     background_image_blend_mode: "overlay"

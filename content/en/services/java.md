@@ -29,7 +29,7 @@ hero:
   height: 600px
   headings:
     heading: "Java Contractors for Complex Systems"
-    sub_heading: "Experienced Java contractors to strengthen your team – fast, flexible, and legally secure."
+    sub_heading: "Experienced Java contractors to strengthen your team."
   background:
     background_image: "images/photos/services/java.webp"
     background_image_blend_mode: "overlay"

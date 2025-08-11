@@ -1,17 +1,17 @@
 ---
 title: "Interim Python Developer"
-description: "Development of complex web applications and system software with experienced Java experts."
+description: "Interim Python developers for you: project-based Python development by experienced freelancers – fast, flexible, and legally compliant."
 date: 2025-06-13
 weight: 6
 
 header_transparent: true
 
 meta: 
-  title: "Java Development and Support Services"
-  description: "Experienced Java developers to realize your projects or support your team flexibly"
-  og_title: "Java Expert Support. Deliver development efficiently"
+  title: "Python Development and Support Services"
+  description: "Experienced Python developers to realize your projects or support your team flexibly"
+  og_title: "Python Expert Support. Deliver development efficiently"
   og_image: "images/photos/services/python.webp"
-  og_description: "Interim Java developers for you: project-based Java development by experienced freelancers – fast, flexible, and legally compliant."
+  og_description: "Development of complex web applications and system software with experienced Python experts."
 
 menu:
   main:
@@ -28,8 +28,8 @@ image: ""
 hero:
   height: 600px
   headings:
-    heading: "Interim Java Developer"
-    sub_heading: "Experienced Java contractors to strengthen your team – fast, flexible, and legally secure."
+    heading: "Interim Python Developer"
+    sub_heading: "Experienced Python contractors to strengthen your team."
   background:
     background_image: "images/photos/services/python.webp"
     background_image_blend_mode: "overlay"
@@ -62,7 +62,7 @@ A cost-efficient (especially in the long term), legally compliant solution with 
 
 {{< framework/team-en >}}
 
-{{< framework/section-grid-java-en >}}
+{{< framework/section-grid-python-en >}}
 
 #### <a href="https://calendly.com/customer-ci-cloud/cirro-cloud-consulting">Book a free consultation</a> at a time that suits you best!
-Get expert Java contractor support—fast, flexible, and legally compliant.
+Get expert Python contractor support—fast, flexible, and legally compliant.
