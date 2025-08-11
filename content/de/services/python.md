@@ -58,7 +58,7 @@ Wir übernehmen den Sourcing-Prozess, wenn interne Recruiting-Ressourcen ausgela
 #### <i class="fas fa-check mr-1 primary-color"></i> Leiter der Entwicklungsabteilung
 Skalieren Sie Ihr Team flexibel nach oben oder unten – ohne langfristige Verpflichtungen.
 #### <i class="fas fa-check mr-1 primary-color"></i> CTO / CIO
-Eine kosteneffiziente (besonders langfristig), rechtlich konforme Lösung mit geprüfter Qualität. {{< framework/team-de >}}
+Eine kosteneffiziente (besonders langfristig), rechtlich konforme Lösung mit geprüfter Qualität.
 
 {{< framework/team-de >}}
 
