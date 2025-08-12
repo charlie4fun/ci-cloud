@@ -62,7 +62,7 @@ Eine kosteneffiziente (besonders langfristig), rechtlich konforme Lösung mit ge
 
 {{< framework/team-de >}}
 
-{{< framework/section-grid-java-de >}}
+{{< framework/section-grid-software-de >}}
 
 #### <a href="https://calendly.com/customer-ci-cloud/cirro-cloud-consulting">Vereinbaren Sie ganz einfach </a> ein unverbindliches Beratungsgespräch – zu einem Zeitpunkt, der für Sie am besten passt!
 Sichern Sie sich jetzt die Unterstützung erfahrener Entwickler Contractors – schnell, flexibel und rechtssicher.

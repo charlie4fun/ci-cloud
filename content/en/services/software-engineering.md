@@ -62,7 +62,7 @@ A cost-efficient (especially in the long term), legally compliant solution with 
 
 {{< framework/team-en >}}
 
-{{< framework/section-grid-java-en >}}
+{{< framework/section-grid-software-en >}}
 
 #### <a href="https://calendly.com/customer-ci-cloud/cirro-cloud-consulting">Book a free consultation</a> at a time that suits you best!
 Get expert software-contractor support — fast, flexible, and legally compliant.
