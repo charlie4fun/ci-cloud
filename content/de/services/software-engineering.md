@@ -1,17 +1,17 @@
 ---
 title: "Software Entwicklung"
-description: "Entwicklung komplexer Webanwendungen und Systemsoftware mit erfahrenen Java-Experten."
+description: "Entwicklung komplexer Webanwendungen und Systemsoftware mit erfahrenen Experten."
 date: 2025-06-13
 weight: 3
 
 header_transparent: true
 
 meta: 
-  title: "Java-Entwicklungs- und Unterstützungsdienstleistungen"
-  description: "Erfahrene Java-Entwickler für die Umsetzung Ihrer Projekte oder als flexible Verstärkung Ihres Teams"
-  og_title: "Java-Experten Unterstützung. Entwicklung effizient umsetzen"
+  title: "Software-Entwicklungs- und Unterstützungsdienstleistungen"
+  description: "Erfahrene Software-Entwickler für die Umsetzung Ihrer Projekte oder als flexible Verstärkung Ihres Teams"
+  og_title: "Software-Experten Unterstützung. Entwicklung effizient umsetzen"
   og_image: "images/photos/services/consulting-large.webp"
-  og_description: "Interim Java Developer für Sie: Projektbezogene Java-Entwicklung mit erfahrenen Freiberuflern – schnell, flexibel und rechtssicher."
+  og_description: "Interim Software Developer für Sie: Projektbezogene Software-Entwicklung mit erfahrenen Freiberuflern – schnell, flexibel und rechtssicher."
 
 menu:
   main:
@@ -28,8 +28,8 @@ image: ""
 hero:
   height: 600px
   headings:
-    heading: "Java Contractors für komplexe Systeme"
-    sub_heading: "Erfahrene Java-Freelancer zur Verstärkung Ihres Teams – schnell, flexibel, rechtssicher."
+    heading: "Software Entwickler für komplexe Systeme"
+    sub_heading: "Erfahrene Entwickler-Contractors zur Verstärkung Ihres Teams – schnell, flexibel und rechtssicher."
   background:
     background_image: "images/photos/services/software-engineering-large.webp"
     background_image_blend_mode: "overlay"
@@ -65,4 +65,4 @@ Eine kosteneffiziente (besonders langfristig), rechtlich konforme Lösung mit ge
 {{< framework/section-grid-java-de >}}
 
 #### <a href="https://calendly.com/customer-ci-cloud/cirro-cloud-consulting">Vereinbaren Sie ganz einfach </a> ein unverbindliches Beratungsgespräch – zu einem Zeitpunkt, der für Sie am besten passt!
-Sichern Sie sich jetzt die Unterstützung erfahrener Java-Contractors – schnell, flexibel und rechtssicher.
+Sichern Sie sich jetzt die Unterstützung erfahrener Entwickler Contractors – schnell, flexibel und rechtssicher.

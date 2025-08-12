@@ -65,4 +65,4 @@ A cost-efficient (especially in the long term), legally compliant solution with 
 {{< framework/section-grid-python-en >}}
 
 #### <a href="https://calendly.com/customer-ci-cloud/cirro-cloud-consulting">Book a free consultation</a> at a time that suits you best!
-Get expert Python contractor support—fast, flexible, and legally compliant.
+Get expert Python contractor support — fast, flexible, and legally compliant.

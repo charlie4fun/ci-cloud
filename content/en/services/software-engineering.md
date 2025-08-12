@@ -1,17 +1,17 @@
 ---
 title: "Software Engineering"
-description: "Development of complex web applications and system software with experienced Java experts."
+description: "Development of complex web applications and system software with experienced experts."
 date: 2025-06-13
 weight: 3
 
 header_transparent: true
 
 meta: 
-  title: "Java Development and Support Services"
-  description: "Experienced Java developers to realize your projects or support your team flexibly"
-  og_title: "Java Expert Support. Deliver development efficiently"
+  title: "Software Development and Support Services"
+  description: "Experienced Software developers to realize your projects or support your team flexibly"
+  og_title: "Software Expert Support. Deliver development efficiently"
   og_image: "images/photos/services/consulting-large.webp"
-  og_description: "Interim Java developers for you: project-based Java development by experienced freelancers – fast, flexible, and legally compliant."
+  og_description: "Interim Software developers for you: project-based Software development by experienced freelancers – fast, flexible, and legally compliant."
 
 menu:
   main:
@@ -28,8 +28,8 @@ image: ""
 hero:
   height: 600px
   headings:
-    heading: "Java Contractors for Complex Systems"
-    sub_heading: "Experienced Java contractors to strengthen your team – fast, flexible, and legally secure."
+    heading: "Software Contractors for Complex Systems"
+    sub_heading: "Experienced developers to strengthen your team – fast, flexible, and legally secure."
   background:
     background_image: "images/photos/services/software-engineering-large.webp"
     background_image_blend_mode: "overlay"
@@ -65,4 +65,4 @@ A cost-efficient (especially in the long term), legally compliant solution with 
 {{< framework/section-grid-java-en >}}
 
 #### <a href="https://calendly.com/customer-ci-cloud/cirro-cloud-consulting">Book a free consultation</a> at a time that suits you best!
-Get expert Java contractor support—fast, flexible, and legally compliant.
+Get expert software-contractor support — fast, flexible, and legally compliant.
