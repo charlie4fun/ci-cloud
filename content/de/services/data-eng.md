@@ -1,5 +1,5 @@
 ---
-title: "Data Engineering"
+title: "Data Science/Engineering"
 description: "Daten sind das Fundament des Geschäftserfolgs, da sie fundierte Entscheidungen, Innovationen und Anpassungsfähigkeit ermöglichen."
 date: 2025-07-13
 weight: 2
@@ -15,7 +15,7 @@ meta:
 
 menu:
   main:
-    name: "Data Engineering"
+    name: "Data Science/Engineering"
     weight: 2
     parent: "services"
     params:
@@ -28,7 +28,7 @@ icon: "images/icons/icons8-data-100.png"
 hero:
   height: 600px
   headings:
-    heading: "Data Engineering"
+    heading: "Data Science und Engineering"
     sub_heading: "Daten sind das Fundament des Geschäftserfolgs."
   background:
     background_image: "images/photos/services/dataeng-large.webp"

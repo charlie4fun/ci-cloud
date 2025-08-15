@@ -1,5 +1,5 @@
 ---
-title: "Data Engineering"
+title: "Data Science/Engineering"
 description: "Data consulting for greater agility & efficiency – with experienced contractors."
 date: 2025-06-08
 weight: 2
@@ -15,6 +15,7 @@ meta:
 
 menu:
   main:
+    name: "Data Science/Engineering"
     weight: 2
     parent: "services"
     params:
@@ -27,7 +28,7 @@ image: ""
 hero:
   height: 500px
   headings:
-    heading: "Data Engineering"
+    heading: "Data Science and Engineering"
     sub_heading: "Scale fast with experienced Data-contractors."
   background:
     background_image: "images/photos/services/dataeng-large.webp"
