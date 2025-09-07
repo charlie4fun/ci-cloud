@@ -36,9 +36,19 @@ hero:
     background_gradient: true
 ---
 
-## Unser Angebot – unverbindlich & kostenlos:
+## Unser Angebot:
+„Wie würden Sie Ihre Kenntnisse in <etwas> auf einer Skala von 1 bis 10 einschätzen?“
+„Wie viele Jahre Erfahrung haben Sie mit <etwas>?“
+„Wie viele Projekte haben Sie damit durchgeführt?“
+
+Diese Fragen sind kaum der beste Weg, um Top-Spezialisten im Screening-Prozess zu identifizieren.
+
+Bei uns wird das Screening von technischen Fachleuten durchgeführt – echten DevOps Engineers.
+So erhalten Sie Spezialisten mit nachgewiesenem Wissen, nicht nur Kandidaten, die die richtigen Keywords erraten haben, um automatisierte Filter zu bestehen.
+
+## So arbeiten wir (Alle folgenden Schritte sind für Sie kostenlos):
 1. Schicken Sie uns eine kurze Beschreibung des gewünschten Profils an customer@ci-cloud.de.
-2. Innerhalb von 1–2 Werktagen erhalten Sie von uns 2–3 qualifizierte Kandidatenprofile (CVs).
+2. Innerhalb von 1–2 Werktagen erhalten Sie von uns 2–3 qualifizierte Kandidatenprofile (CVs) aus unserem Pool geprüfter Fachkräfte.
 3. Falls ein Profil für Sie interessant ist, organisieren wir ein unverbindliches Interview.
 4. Wenn Sie sich nach dem Gespräch für einen Kandidaten entscheiden, schließen wir einen Dienstleistungsvertrag, und der Experte kann kurzfristig starten.
 
@@ -58,7 +68,7 @@ Wir übernehmen den Sourcing-Prozess, wenn interne Recruiting-Ressourcen ausgela
 #### <i class="fas fa-check mr-1 primary-color"></i> Leiter Infrastruktur / DevOps-Abteilung
 Skalieren Sie Ihr Team flexibel nach oben oder unten – ohne langfristige Verpflichtungen.
 #### <i class="fas fa-check mr-1 primary-color"></i> CTO / CIO
-Eine kosteneffiziente (besonders langfristig), rechtlich konforme Lösung mit geprüfter Qualität.
+Eine kosteneffiziente (dank geringerer Verpflichtungeng), rechtssichere Lösung mit geprüfter Qualität.
 
 {{< framework/team-de >}}
 
