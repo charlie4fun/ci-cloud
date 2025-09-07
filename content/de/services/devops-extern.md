@@ -1,5 +1,5 @@
 ---
-title: "DevOps Beratung und Unterstützung"
+title: "Interim DevOps"
 description: "Interim DevOps-Experten für Ihre Cloud: DevOps Consulting für mehr Agilität & Effizienz – mit erfahrenen Contractors auf freiberuflicher Basis."
 date: 2025-04-01
 weight: 1
@@ -28,7 +28,7 @@ icon: "images/icons/icons8-cloud-100.png"
 hero:
   height: 600px
   headings:
-    heading: "DevOps Beratung und Beistand"
+    heading: "Interim DevOps"
     sub_heading: "Skalieren Sie schneller mit erfahrenen DevOps-Contractors."
   background:
     background_image: "images/photos/services/consulting-large.webp"
@@ -37,9 +37,9 @@ hero:
 ---
 
 ## Unser Angebot:
-„Wie würden Sie Ihre Kenntnisse in <etwas> auf einer Skala von 1 bis 10 einschätzen?“
-„Wie viele Jahre Erfahrung haben Sie mit <etwas>?“
-„Wie viele Projekte haben Sie damit durchgeführt?“
+- „Wie würden Sie Ihre Kenntnisse in <etwas> auf einer Skala von 1 bis 10 einschätzen?“
+- „Wie viele Jahre Erfahrung haben Sie mit <etwas>?“
+- „Wie viele Projekte haben Sie damit durchgeführt?“
 
 Diese Fragen sind kaum der beste Weg, um Top-Spezialisten im Screening-Prozess zu identifizieren.
 

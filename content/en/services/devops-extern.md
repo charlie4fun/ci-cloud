@@ -1,5 +1,5 @@
 ---
-title: "DevOps Consulting and Contracting"
+title: "Interim DevOps"
 description: "DevOps consulting for greater agility & efficiency – with experienced contractors."
 date: 2025-04-01
 weight: 1
@@ -15,7 +15,7 @@ meta:
 
 menu:
   main:
-    name: "DevOps Consulting"
+    name: "Interim DevOps"
     weight: 1
     parent: "services"
     params:
@@ -28,7 +28,7 @@ icon: "images/icons/icons8-cloud-100.png"
 hero:
   height: 600px
   headings:
-    heading: "DevOps Consulting and Contracting "
+    heading: "Interim DevOps"
     sub_heading: "Scale fast with experienced DevOps-contractors."
   background:
     background_image: "images/photos/services/consulting-large.webp"
@@ -36,9 +36,9 @@ hero:
     background_gradient: true
 ---
 ## Our Offer:
-"How would you rate your knowledge of <something> on a scale from 1 to 10?"
-"How many years of experience do you have with <something>?"
-"How many projects have you done with it?"
+- "How would you rate your knowledge of <something> on a scale from 1 to 10?"
+- "How many years of experience do you have with <something>?"
+- "How many projects have you done with it?"
 
 Those questions are hardly the best way to identify top specialists during screening.
 
