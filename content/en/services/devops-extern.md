@@ -42,7 +42,7 @@ hero:
 
 Those questions are hardly the best way to identify top specialists during screening.
 
-With us, the screening is done by technical professionals — real DevOps engineers.
+With us, the screening is done by technical professionals — real DevOps Engineers.
 This means you get specialists with proven knowledge, not just candidates who guessed the right keywords to pass automated filters.
 
 ## How we work (all steps below are free of charge):

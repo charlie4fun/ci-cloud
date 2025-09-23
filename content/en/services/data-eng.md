@@ -36,7 +36,17 @@ hero:
     background_gradient: true
 ---
 
-## Our Offer (all steps below are free of charge):
+## Our Offer:
+- "How would you rate your knowledge of <something> on a scale from 1 to 10?"
+- "How many years of experience do you have with <something>?"
+- "How many projects have you done with it?"
+
+Those questions are hardly the best way to identify top specialists during screening.
+
+With us, the screening is done by technical professionals — real Data Engineers.
+This means you get specialists with proven knowledge, not just candidates who guessed the right keywords to pass automated filters.
+
+## How we work (all steps below are free of charge):
 1. Send us a description of the specialist you're looking for: abc@ci-cloud.de.
 2. Within 1–2 business days, we’ll send you 2–3 CVs of suitable candidates.
 3. If you're interested in one or more of the candidates, we’ll arrange an interview.
