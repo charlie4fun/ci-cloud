@@ -1,0 +1,194 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-services-single{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+
+    {{ if .Params.hero }}
+        {{ partial "framework/sections/hero/hero.html" (dict "context" $ "hero" .Params.hero) }}
+    {{ else }}
+        <div class="section section-base-bg">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-lg-8">
+                        <h1>{{ .Title }}</h1>
+                        <h2>{{ .Params.description }}</h2>
+                    </div>
+                    {{ if .Params.image }}
+                        <div class="col-12 col-lg-12" style="max-height: 400px; overflow: hidden;">
+                            <img class="img-fluid" src="{{ .Params.image | relURL }}" />
+                        </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    {{ end }}
+
+    <div class="section">
+        <div class="container">
+                <div class="section-heading pb-2">
+                    <h2>Platforms We Support</h2>
+                </div>
+                <div class="row justify-content-center align-items-center">
+                    {{ range .Site.Data.providers }}
+                        <div class="col-4 col-lg-2 text-center mt-1">
+                            <img style="max-width: 125px;" height="75px" src="{{ .image | relURL }}" alt="{{ .title }}"/>
+                        </div>
+                    {{ end }}
+                </div>
+        </div>
+    </div>
+
+    <div class="section pt-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    {{ partial "framework/sections/info/info.html" (dict "context" $ "info" .Params.intro2) }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section pt-2">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <div class="content">{{ .Content }}</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section section-base-bg-2 pt-2">
+        <div class="container">
+            <div class="section-heading pb-2">
+                <h2>Ask a Question</h2>
+            </div>
+            <div class="row">
+                <div class="col-12 col-lg-6">
+                    <div class="info-content">
+                        <h2>{{ .Params.intro1.heading }}</h2>
+                        {{ if .Params.intro1.description }}
+                            <p>{{ .Params.intro1.description }}</p>
+                        {{ end }}
+                        {{ if .Params.intro1.bullets }}
+                            {{ range $index, $bullet := .Params.intro1.bullets }}
+                                {{ if eq $index 0 }}
+                                    <p class="mb-3"><i class="fas fa-check mr-1 primary-color"></i> {{ $bullet }}</p>
+                                {{ else if eq $index (sub (len $.Params.intro1.bullets) 1) }}
+                                    <p class="mb-0"><i class="fas fa-check mr-1 primary-color"></i> {{ $bullet }}</p>
+                                {{ else }}
+                                    <p class="mb-3"><i class="fas fa-check mr-1 primary-color"></i> {{ $bullet }}</p>
+                                {{ end }}
+                            {{ end }}
+                        {{ end }}
+                        {{ if .Params.intro1.buttons }}
+                            <div class="info-buttons mt-4">
+                                {{ range .Params.intro1.buttons }}
+                                    {{ partial "framework/components/button.html" . }}
+                                {{ end }}
+                            </div>
+                        {{ end }}
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6">
+                    {{ partial "framework/forms/form" . }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section pt-2">
+        <div class="container content">
+            {{ with .Params.section_grid }}
+                {{ if .heading }}
+                    <div class="section-heading pb-2">
+                        <h2>{{ .heading }}</h2>
+                    </div>
+                {{ end }}
+                <div class="section_grid row justify-content-center pb-4" style="padding-top: 10px; padding-bottom: 10px;">
+                    {{ range .items }}
+                        <div class="section_grid-item col-12 col-md-4">
+                            {{ if .icon }}
+                                <img width="40" height="40" style="margin-top: 0px; margin-bottom: 0px;" src="{{ .icon | relURL }}" />
+                            {{ end }}
+                            {{ if .title }}
+                                <h4>{{ .title }}</h4>
+                            {{ end }}
+                            {{ if .description }}
+                                <p>{{ .description }}</p>
+                            {{ end }}
+                        </div>
+                    {{ end }}
+                </div>
+            {{ end }}
+        </div>
+    </div>
+
+    <div class="section pt-2">
+        <div class="container">
+            {{ $partners := .Site.Data.partners }}
+                <div class="section-heading pb-2">
+                    <h2>Our Customers</h2>
+                </div>
+                <div class="row justify-content-center align-items-center">
+                    {{ range .Site.Data.partners }}
+                        <div class="col-4 col-lg-2 text-center mt-1">
+                            <img style="max-width: 100px;" height="50px" src="{{ .image | relURL }}" alt="{{ .title }}"/>
+                        </div>
+                    {{ end }}
+                </div>
+        </div>
+    </div>
+
+    {{ if .Params.providers }}
+        <div class="section pt-2">
+            <div class="container">
+                <div class="section-heading pb-2">
+                    <h2>Technologies We Use</h2>
+                </div>
+                <div class="row">
+                    {{ range .Params.providers }}
+                        <div class="col-12 col-md-6 col-lg-4 mb-2">
+                            {{ $summary_classes := slice "" }}
+                            {{ if or .icon .fa_icon }}{{ $summary_classes = $summary_classes | append "summary-has-icon" }}{{ end }}
+                            {{ if .thumbnail }}{{ $summary_classes = $summary_classes | append "summary-has-thumbnail" }}{{ end }}
+                            <div class="summary summary-full {{ delimit $summary_classes " " }}">
+                                {{ if .thumbnail }}
+                                    <div class="summary-thumbnail">
+                                        {{ if .url }}
+                                            <a title="{{ .title }}" href="{{ .url | relURL }}"><img width="640" height="360" alt="{{ .title }}" src="{{ .thumbnail | relURL }}"/></a>
+                                        {{ else }}
+                                            <img width="640" height="360" alt="{{ .title }}" src="{{ .thumbnail | relURL }}"/>
+                                        {{ end }}
+                                    </div>
+                                {{ end }}
+                                {{ if .icon }}
+                                    <div class="summary-icon">
+                                        <img src="{{ .icon | relURL }}"/>
+                                    </div>
+                                {{ else if .fa_icon }}
+                                    <div class="summary-icon summary-fa-icon">
+                                        <i class="fa {{ .fa_icon }}"></i>
+                                    </div>
+                                {{ end }}
+                                <div class="summary-content">
+                                    <div class="summary-title">
+                                        {{ if .url }}
+                                            <h2><a href="{{ .url | relURL }}">{{ .title }}</a></h2>
+                                        {{ else }}
+                                            <h2>{{ .title }}</h2>
+                                        {{ end }}
+                                    </div>
+                                    <div class="summary-description">
+                                        <p>{{ .description }}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    {{ end }}
+{{ end }}

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Azure",
+    "image": "/images/providers/azure_1.png",
+    "url": ""
+  },
+  {
+    "title": "GCP",
+    "image": "/images/providers/gcp_1.png",
+    "url": ""
+  },
+  {
+    "title": "AWS",
+    "image": "/images/providers/aws_1.png",
+    "url": ""
+  },
+  {
+    "title": "Kubernetes",
+    "image": "/images/providers/kubernetes_1.png",
+    "url": ""
+  }
+]

@@ -1,0 +1,44 @@
+{{/*
+  Renders two blocks for service pages:
+  1) Info block (text left, image right) using page .Params.intro if present
+  2) Partners logos strip using data/partners.json
+
+  Width and background adjustments:
+  - Uses neutral background (matches default page content)
+  - Constrains both blocks to a centered col-lg-9 for visual alignment
+*/}}
+
+{{ $page := .Page }}
+
+<!--<div class="section">-->
+<!--  <div class="container">-->
+<!--    <div class="row justify-content-center">-->
+<!--      <div class="col-12 col-lg-9">-->
+<!--        {{ if $page.Params.intro }}-->
+          {{ partial "framework/sections/info/info.html" (dict "context" $page "info" $page.Params.intro) }}
+<!--        {{ end }}-->
+<!--      </div>-->
+<!--    </div>-->
+<!--  </div>-->
+<!--</div>-->
+
+{{ $partners := site.Data.partners }}
+{{ if gt (len $partners) 0 }}
+<!--<div class="section">-->
+<!--  <div class="container">-->
+<!--    <div class="row justify-content-center align-items-center">-->
+<!--      <div class="col-12 col-lg-9">-->
+        <div class="row justify-content-center align-items-center pt-3 pt-md-4">
+          {{ range $partners }}
+            <div class="col-4 col-lg-2 text-center mb-1 mt-1">
+              <img style="max-width: 100px;" height="50px" src="{{ .image | relURL }}" alt="{{ .title }}"/>
+            </div>
+          {{ end }}
+        </div>
+<!--      </div>-->
+<!--    </div>-->
+<!--  </div>-->
+<!--</div>-->
+{{ end }}
+
+
