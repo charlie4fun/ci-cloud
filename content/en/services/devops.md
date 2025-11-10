@@ -113,7 +113,7 @@ providers:
         <h4><i class="fas fa-check mr-1 primary-color"></i> Team reinforcement</h4>
         <p>Quickly fill capability or capacity gaps in your team with experienced DevOps engineers.</p>
     </div>
-    <div class="col-12 col-lg-6">
+    <div class="col-12 col-lg-6 mt-4 mt-lg-0">
         <div class="section-heading">
                 <h2>Our Team</h2>
         </div>
